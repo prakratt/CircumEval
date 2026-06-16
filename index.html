@@ -884,6 +884,71 @@
     /* pair badge: skip on the del side of a paired change (avoids duplicate #N) */
 
     /* paired del side: hide the badge (the ins side carries it) */
+
+    /* ─── Mobile (≤640px) — phone widths ─────────────── */
+    @media (max-width: 640px) {
+      body { font-size: 16px; }
+      .page { padding: 20px 14px 12px; gap: 22px; }
+      .article-header h1 { font-size: 26px; line-height: 1.2; }
+      .article-header .meta, .article-header .authors { font-size: 13px; }
+      .lead { font-size: 16.5px; line-height: 1.55; }
+      h2 { font-size: 22px; margin-top: 32px; }
+      h3 { font-size: 18px; margin-top: 24px; }
+      p, li { font-size: 15.5px; line-height: 1.65; }
+      ul, ol { padding-left: 20px; }
+      /* TL;DR card */
+      .tldr { padding: 14px 16px; margin: 10px 0 22px; }
+      .tldr .label { font-size: 18px; margin-bottom: 6px; }
+      .tldr li { font-size: 14.5px; }
+      /* Tables: horizontal scroll keeps them readable */
+      .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      table { font-size: 13px; min-width: 460px; }
+      th, td { padding: 6px 8px; }
+      .table-caption { font-size: 13px; }
+      /* Figures + plots: full width, smaller captions */
+      figure { margin: 18px 0; }
+      figcaption { font-size: 13.5px; line-height: 1.5; }
+      .figure-caption { font-size: 13.5px; line-height: 1.5; }
+      /* Code blocks */
+      pre { padding: 10px 12px; font-size: 12.5px; line-height: 1.45; }
+      code { font-size: 0.88em; }
+      /* Transcripts */
+      .transcript .strip,
+      details.transcript-collapse > summary {
+        padding: 7px 10px; font-size: 10.5px; gap: 6px;
+      }
+      .transcript .strip .badge,
+      details.transcript-collapse > summary .badge { font-size: 9.5px; padding: 1px 5px; }
+      .transcript .strip .epoch,
+      details.transcript-collapse > summary .epoch { font-size: 10.5px; }
+      .transcript .body { padding: 12px 14px 14px; }
+      details.transcript-collapse > .body { padding: 12px 14px 14px; }
+      .transcript .quote, details.transcript-collapse > .body > .quote { padding: 8px 12px; font-size: 14px; }
+      .transcript .body > pre.shell,
+      .transcript .body > pre.patch,
+      details.transcript-collapse > .body > pre.shell,
+      details.transcript-collapse > .body > pre.patch { padding: 10px 12px; font-size: 12px; }
+      .transcript .result, details.transcript-collapse > .body > .result { font-size: 12.5px; }
+      .circumvention-flag { font-size: 10px; letter-spacing: 1px; }
+      /* Terminal animation */
+      #pyc-replay-root { width: 100%; margin: 14px 0 20px; }
+      /* Citation */
+      #citation { padding: 22px 14px 28px; }
+      #citation h2 { font-size: 19px; }
+      #citation .citation-bibtex { font-size: 11.5px; padding: 12px 14px; }
+      /* Footnote tooltip — pin to viewport edges */
+      .footnote-pop > .footnote-body { width: calc(100vw - 28px); max-width: calc(100vw - 28px); font-size: 13px; }
+      /* Appendix accordions */
+      details.appendix > summary { font-size: 15px; padding: 10px 12px; }
+      details.appendix .body { padding: 12px 14px 16px; }
+    }
+    /* ─── Very small phones (≤380px) ──────────────────── */
+    @media (max-width: 380px) {
+      .page { padding: 16px 10px 10px; }
+      h2 { font-size: 20px; }
+      .article-header h1 { font-size: 22px; }
+      table { font-size: 12px; }
+    }
 </style>
 </head>
 <body>
