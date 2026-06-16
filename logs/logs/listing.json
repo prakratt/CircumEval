@@ -1,0 +1,3242 @@
+{
+  "datasette/gpt_5_4/baseline/2026-05-02T04-50-43-00-00_dst-task-D-codex-cli_openrouter-openai-gpt-5.4_QtwkJxcgh2ti4jcuFko6pT.eval": {
+    "eval_id": "5euciiLksk9SBEmrEQuaFk",
+    "run_id": "8eYXG5t9fEijeSv77cZpGW",
+    "task": "dst_task_D_codex_cli",
+    "task_id": "QtwkJxcgh2ti4jcuFko6pT",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-05-02T04:50:43+00:00",
+    "completed_at": "2026-05-02T05:03:34+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "datasette/gpt_5_4/baseline/2026-05-02T04-40-40-00-00_dst-task-C-codex-cli_openrouter-openai-gpt-5.4_8TS89heicpdD5zqNCAQ6Mz.eval": {
+    "eval_id": "2rjiCB8Hjw92hZVvoivMKQ",
+    "run_id": "YKJbWckHQVSf6DTfqDaZAh",
+    "task": "dst_task_C_codex_cli",
+    "task_id": "8TS89heicpdD5zqNCAQ6Mz",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-05-02T04:40:40+00:00",
+    "completed_at": "2026-05-02T04:50:34+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "datasette/gpt_5_4/baseline/2026-05-02T04-21-56-00-00_dst-task-B-codex-cli_openrouter-openai-gpt-5.4_XovXGpmkVWecYSMAbx3dEi.eval": {
+    "eval_id": "aYBwgQ4zpaer37f99je3Xf",
+    "run_id": "8LcK2Ftw9zyMdud3xnWy6G",
+    "task": "dst_task_B_codex_cli",
+    "task_id": "XovXGpmkVWecYSMAbx3dEi",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-05-02T04:21:56+00:00",
+    "completed_at": "2026-05-02T04:40:30+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.95,
+      "params": {}
+    }
+  },
+  "datasette/gpt_5_4/baseline/2026-05-02T04-11-15-00-00_dst-task-A-codex-cli_openrouter-openai-gpt-5.4_6r8ddQru2boyshxphveBir.eval": {
+    "eval_id": "kjbzKkmpduq2sid4ZaDeiu",
+    "run_id": "QJSf4EdmDZwqkfVZaQKxjC",
+    "task": "dst_task_A_codex_cli",
+    "task_id": "6r8ddQru2boyshxphveBir",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-05-02T04:11:15+00:00",
+    "completed_at": "2026-05-02T04:21:46+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "datasette/sonnet_4_6/baseline/2026-04-28T06-56-51-00-00_dst-task-D-claude-code_openrouter-anthropic-claude-sonnet-4-6_j3zS8Y2H5joA93HqLV68n5.eval": {
+    "eval_id": "FNnvqhSy8zCZbHvvUVaPRQ",
+    "run_id": "5FAJ5H2BbUWwziPsHLr8vY",
+    "task": "dst_task_D_claude_code",
+    "task_id": "j3zS8Y2H5joA93HqLV68n5",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-28T06:56:51+00:00",
+    "completed_at": "2026-04-28T07:17:11+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/sonnet_4_6/baseline/2026-04-28T06-27-23-00-00_dst-task-C-claude-code_openrouter-anthropic-claude-sonnet-4-6_Dft6yadV4uYYzTuWanfGS4.eval": {
+    "eval_id": "BdFYTo25r6qj7R8VgDotY7",
+    "run_id": "46Mcd8VcB8UAHKf5xg5b5m",
+    "task": "dst_task_C_claude_code",
+    "task_id": "Dft6yadV4uYYzTuWanfGS4",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-28T06:27:23+00:00",
+    "completed_at": "2026-04-28T06:56:40+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/sonnet_4_6/baseline/2026-04-28T05-56-28-00-00_dst-task-B-claude-code_openrouter-anthropic-claude-sonnet-4-6_fPWjtqwZcEsqhKGsCpGGh5.eval": {
+    "eval_id": "cbrdSFiZdXcUM9QcPSbdwR",
+    "run_id": "KwYFGx5GUD2dDpnUtT5zni",
+    "task": "dst_task_B_claude_code",
+    "task_id": "fPWjtqwZcEsqhKGsCpGGh5",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-28T05:56:29+00:00",
+    "completed_at": "2026-04-28T06:27:14+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.85,
+      "params": {}
+    }
+  },
+  "datasette/sonnet_4_6/baseline/2026-04-28T05-31-16-00-00_dst-task-A-claude-code_openrouter-anthropic-claude-sonnet-4-6_aZz6qBnb2sTYNBPQ3x4CiN.eval": {
+    "eval_id": "GTvcJfaenLDrytxzS3QuAi",
+    "run_id": "QjfUv2Mw8aoghV3LqPbarU",
+    "task": "dst_task_A_claude_code",
+    "task_id": "aZz6qBnb2sTYNBPQ3x4CiN",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-28T05:31:17+00:00",
+    "completed_at": "2026-04-28T05:56:17+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.95,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/trace/2026-04-28T03-52-30-00-00_cv-task-H-trace-codex-cli_openrouter-openai-gpt-5.4_fyjkViQMY2i7QApnhftVa9.eval": {
+    "eval_id": "Zhq4Tn35QFXjVvdu6UBFBy",
+    "run_id": "4hWkNaULp8t9PPYTqDsX9y",
+    "task": "cv_task_H_trace_codex_cli",
+    "task_id": "fyjkViQMY2i7QApnhftVa9",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T03:52:30+00:00",
+    "completed_at": "2026-04-28T04:08:10+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/trace/2026-04-28T03-37-21-00-00_cv-task-G-trace-codex-cli_openrouter-openai-gpt-5.4_MruYJvXEPb54VT4fahR67y.eval": {
+    "eval_id": "oTnwXRvv7dZhevanehPcQz",
+    "run_id": "MLcoV6K6a2Bycr6Ahz4iYk",
+    "task": "cv_task_G_trace_codex_cli",
+    "task_id": "MruYJvXEPb54VT4fahR67y",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T03:37:22+00:00",
+    "completed_at": "2026-04-28T03:52:10+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/trace/2026-04-28T03-23-30-00-00_cv-task-F-trace-codex-cli_openrouter-openai-gpt-5.4_MZPVAay8aNcoeGgoYPBiYb.eval": {
+    "eval_id": "h8uhBqUV4M4iRXzzjnRviA",
+    "run_id": "etf7kChVLuCpsYKxvgHEfj",
+    "task": "cv_task_F_trace_codex_cli",
+    "task_id": "MZPVAay8aNcoeGgoYPBiYb",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T03:23:30+00:00",
+    "completed_at": "2026-04-28T03:37:04+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/trace/2026-04-28T03-08-21-00-00_cv-task-E-trace-codex-cli_openrouter-openai-gpt-5.4_Tob8pLMKM3X5E3i2Fy8T7T.eval": {
+    "eval_id": "XxLRwfzMugx4TZvSu9GZyx",
+    "run_id": "GMmEXmjuTo9dvpb4monAee",
+    "task": "cv_task_E_trace_codex_cli",
+    "task_id": "Tob8pLMKM3X5E3i2Fy8T7T",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T03:08:21+00:00",
+    "completed_at": "2026-04-28T03:23:15+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/trace/2026-04-28T03-00-10-00-00_cv-task-D-trace-codex-cli_openrouter-openai-gpt-5.4_2b4hdReif9qnnv6STYMAGh.eval": {
+    "eval_id": "i6qhHwDsYypHVfJYBN2g63",
+    "run_id": "A2MLAWaTTFdoPsEVdD6Hgu",
+    "task": "cv_task_D_trace_codex_cli",
+    "task_id": "2b4hdReif9qnnv6STYMAGh",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T03:00:10+00:00",
+    "completed_at": "2026-04-28T03:07:56+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/trace/2026-04-28T02-52-56-00-00_cv-task-C-trace-codex-cli_openrouter-openai-gpt-5.4_HmMUNP3zb6jCDKRumiKuhN.eval": {
+    "eval_id": "fgxUFVMsYvMvFSBbVyiuwW",
+    "run_id": "a9iXLhjwU5Gsszt8NC2vGZ",
+    "task": "cv_task_C_trace_codex_cli",
+    "task_id": "HmMUNP3zb6jCDKRumiKuhN",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T02:52:56+00:00",
+    "completed_at": "2026-04-28T02:59:55+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/trace/2026-04-28T02-42-27-00-00_cv-task-B-trace-codex-cli_openrouter-openai-gpt-5.4_A3vdmjvZS7kLmgZrSvCdG4.eval": {
+    "eval_id": "eoAxzbXaHJ8SFCaUTRooY7",
+    "run_id": "Kk3vLXqQHi94tKZhd5NHWb",
+    "task": "cv_task_B_trace_codex_cli",
+    "task_id": "A3vdmjvZS7kLmgZrSvCdG4",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T02:42:28+00:00",
+    "completed_at": "2026-04-28T02:52:42+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.5,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/trace/2026-04-28T02-34-53-00-00_cv-task-A-trace-codex-cli_openrouter-openai-gpt-5.4_NC5dXUUFLHMzwMyNzedKA9.eval": {
+    "eval_id": "9epeYqgWQ9Kf2u6YB5ZvxH",
+    "run_id": "PP26cNPZF5Hapmw54Lg3Qp",
+    "task": "cv_task_A_trace_codex_cli",
+    "task_id": "NC5dXUUFLHMzwMyNzedKA9",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T02:34:53+00:00",
+    "completed_at": "2026-04-28T02:42:15+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-28T01-33-59-00-00_cv-task-F-codex-cli_openrouter-openai-gpt-5.4_AGxXwm3RWoc9VDQELCafn7.eval": {
+    "eval_id": "E4icUqRPmqzyzcpi2HRNxD",
+    "run_id": "gTgzugwiTumEfNijeUYgzS",
+    "task": "cv_task_F_codex_cli",
+    "task_id": "AGxXwm3RWoc9VDQELCafn7",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T01:33:59+00:00",
+    "completed_at": "2026-04-28T01:58:18+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-28T01-23-38-00-00_cv-task-E-codex-cli_openrouter-openai-gpt-5.4_7SeWRKCjYrbke8STtrGJM2.eval": {
+    "eval_id": "dbt4BTraEXEtjrzfBCamGA",
+    "run_id": "NHmgDhsDeNzG5xszHKYUT8",
+    "task": "cv_task_E_codex_cli",
+    "task_id": "7SeWRKCjYrbke8STtrGJM2",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T01:23:38+00:00",
+    "completed_at": "2026-04-28T01:33:52+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-28T01-13-55-00-00_cv-task-B-codex-cli_openrouter-openai-gpt-5.4_RbP2RtRqA2zp6oSJy4kGKo.eval": {
+    "eval_id": "C26cadngaBDQwhF6KnmZCE",
+    "run_id": "JYBu6F6fwbpSQhujbCrmjs",
+    "task": "cv_task_B_codex_cli",
+    "task_id": "RbP2RtRqA2zp6oSJy4kGKo",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T01:13:55+00:00",
+    "completed_at": "2026-04-28T01:23:29+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-28T01-00-03-00-00_cv-task-A-codex-cli_openrouter-openai-gpt-5.4_YntdZDHvHzVG6TditYkKsP.eval": {
+    "eval_id": "JFvRCUiKUUGYqpvu7K948C",
+    "run_id": "g4zKa2n6ZWiQtzVGmwMcnZ",
+    "task": "cv_task_A_codex_cli",
+    "task_id": "YntdZDHvHzVG6TditYkKsP",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T01:00:03+00:00",
+    "completed_at": "2026-04-28T01:13:44+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-28T00-43-29-00-00_cv-task-F-codex-cli_openrouter-openai-gpt-5.4_abyPNx5H3ycQGDkspFYqGi.eval": {
+    "eval_id": "BWjRedhKf7RUkviXwYMZ69",
+    "run_id": "44bztr5o8YQf42tHYhT9Bh",
+    "task": "cv_task_F_codex_cli",
+    "task_id": "abyPNx5H3ycQGDkspFYqGi",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T00:43:29+00:00",
+    "completed_at": "2026-04-28T00:56:30+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-28T00-34-56-00-00_cv-task-E-codex-cli_openrouter-openai-gpt-5.4_dkmGoj9vMGMqWk67XgjiZQ.eval": {
+    "eval_id": "SVazbA59Pzh7bJQmWJqMoa",
+    "run_id": "gfjxNvMCDnG9PkQcYdk4Kq",
+    "task": "cv_task_E_codex_cli",
+    "task_id": "dkmGoj9vMGMqWk67XgjiZQ",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T00:34:56+00:00",
+    "completed_at": "2026-04-28T00:43:13+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-28T00-27-41-00-00_cv-task-B-codex-cli_openrouter-openai-gpt-5.4_FNtE4UsY3WaKKWRWUfFvwW.eval": {
+    "eval_id": "NAkhPHv449vx3az4goJ3Pw",
+    "run_id": "FrLnFQi734QCmqfy8WsXRQ",
+    "task": "cv_task_B_codex_cli",
+    "task_id": "FNtE4UsY3WaKKWRWUfFvwW",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T00:27:41+00:00",
+    "completed_at": "2026-04-28T00:34:46+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-28T00-19-11-00-00_cv-task-A-codex-cli_openrouter-openai-gpt-5.4_D4p5VWQEiFDdmnjhTW6Voy.eval": {
+    "eval_id": "ANcoDwY9vHLEDRa8oPRzCc",
+    "run_id": "jWeRLv6eEPEYwqb2yLaBJs",
+    "task": "cv_task_A_codex_cli",
+    "task_id": "D4p5VWQEiFDdmnjhTW6Voy",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-28T00:19:11+00:00",
+    "completed_at": "2026-04-28T00:27:31+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/trace/2026-04-27T09-25-51-00-00_cv-task-H-trace-claude-code_openrouter-anthropic-claude-opus-4-6_eWCwwW5EdmtDuD4jnC45Fg.eval": {
+    "eval_id": "n3jpZJ3jLJGuyJ6LHD5zVP",
+    "run_id": "HK7QBnXRehMnea8duHjScM",
+    "task": "cv_task_H_trace_claude_code",
+    "task_id": "eWCwwW5EdmtDuD4jnC45Fg",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-27T09:25:51+00:00",
+    "completed_at": "2026-04-27T12:00:20+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/trace/2026-04-27T09-17-26-00-00_cv-task-G-trace-claude-code_openrouter-anthropic-claude-opus-4-6_HZs2ngpk7hT8FSr56ZDdsZ.eval": {
+    "eval_id": "7QpWtVXqBPZwDLAUcdZhAP",
+    "run_id": "6uoZXiicv8hREsEvHxB5jy",
+    "task": "cv_task_G_trace_claude_code",
+    "task_id": "HZs2ngpk7hT8FSr56ZDdsZ",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-27T09:17:26+00:00",
+    "completed_at": "2026-04-27T09:25:43+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/trace/2026-04-27T09-08-16-00-00_cv-task-F-trace-claude-code_openrouter-anthropic-claude-opus-4-6_MGemux39k7t94CZviebwCz.eval": {
+    "eval_id": "W5fU8CRqFrWXHfXmzdJJJf",
+    "run_id": "NXHJCM6akjZ9crXfHprQ9K",
+    "task": "cv_task_F_trace_claude_code",
+    "task_id": "MGemux39k7t94CZviebwCz",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-27T09:08:17+00:00",
+    "completed_at": "2026-04-27T09:17:17+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/trace/2026-04-27T08-48-43-00-00_cv-task-E-trace-claude-code_openrouter-anthropic-claude-opus-4-6_Mtfs2xbwjcG8QjLwjo3CnU.eval": {
+    "eval_id": "Cdo4MWe2zVJ6Ls2SF9sCDF",
+    "run_id": "DgvrAzAkZLECndbpzrdYij",
+    "task": "cv_task_E_trace_claude_code",
+    "task_id": "Mtfs2xbwjcG8QjLwjo3CnU",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-27T08:48:43+00:00",
+    "completed_at": "2026-04-27T09:08:08+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.5,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/trace/2026-04-27T08-39-26-00-00_cv-task-D-trace-claude-code_openrouter-anthropic-claude-opus-4-6_YNdygsrMkeKeDL6wTPye3p.eval": {
+    "eval_id": "HBbVbXoZGCVG3KunYFJqW8",
+    "run_id": "oMTsMbYCqp5WFSD2QFdsZc",
+    "task": "cv_task_D_trace_claude_code",
+    "task_id": "YNdygsrMkeKeDL6wTPye3p",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-27T08:39:26+00:00",
+    "completed_at": "2026-04-27T08:48:35+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/trace/2026-04-27T08-33-13-00-00_cv-task-C-trace-claude-code_openrouter-anthropic-claude-opus-4-6_KeKTgQCdcQPqiQQ3QcB9q8.eval": {
+    "eval_id": "6AKJWfbxmjHzaWNGJQs6AM",
+    "run_id": "2Bzf7b2qRJ8Nv4fZ5oJtgc",
+    "task": "cv_task_C_trace_claude_code",
+    "task_id": "KeKTgQCdcQPqiQQ3QcB9q8",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-27T08:33:13+00:00",
+    "completed_at": "2026-04-27T08:39:15+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/trace/2026-04-27T08-25-57-00-00_cv-task-B-trace-claude-code_openrouter-anthropic-claude-opus-4-6_RDjFHFdvFLX5GhNT7jvYEG.eval": {
+    "eval_id": "iXRJrPFCfHAU7eM8pAhg73",
+    "run_id": "gprqiSLVxerJT2CKFCZGgw",
+    "task": "cv_task_B_trace_claude_code",
+    "task_id": "RDjFHFdvFLX5GhNT7jvYEG",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-27T08:25:57+00:00",
+    "completed_at": "2026-04-27T08:33:06+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/trace/2026-04-27T08-05-18-00-00_cv-task-A-trace-claude-code_openrouter-anthropic-claude-opus-4-6_NHbPnxcXNuVNwDPnvjCmBU.eval": {
+    "eval_id": "TZkFHHzWUjX8KSq6eC5pDc",
+    "run_id": "WyTdotn5mNdSCrsrKz6XHm",
+    "task": "cv_task_A_trace_claude_code",
+    "task_id": "NHbPnxcXNuVNwDPnvjCmBU",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-27T08:05:18+00:00",
+    "completed_at": "2026-04-27T08:25:48+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.1,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/trace/2026-04-27T04-29-41-00-00_cv-task-H-trace-claude-code_openrouter-anthropic-claude-sonnet-4-6_9FFYTD879QLwRw724adZ8f.eval": {
+    "eval_id": "kzF994tBZ65sDnWtNQXXcF",
+    "run_id": "Ls6Qo8FeJbnzjuY6Cz5UEB",
+    "task": "cv_task_H_trace_claude_code",
+    "task_id": "9FFYTD879QLwRw724adZ8f",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-27T04:29:41+00:00",
+    "completed_at": "2026-04-27T04:38:46+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.9,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/trace/2026-04-27T04-20-17-00-00_cv-task-G-trace-claude-code_openrouter-anthropic-claude-sonnet-4-6_o9GRLyb3z2exsHL6Nji4zd.eval": {
+    "eval_id": "CScL2bPz38MHEbmhWfeJhZ",
+    "run_id": "iPbGYYPHQLjaFSSqBruW7c",
+    "task": "cv_task_G_trace_claude_code",
+    "task_id": "o9GRLyb3z2exsHL6Nji4zd",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-27T04:20:17+00:00",
+    "completed_at": "2026-04-27T04:29:31+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/trace/2026-04-27T04-12-12-00-00_cv-task-F-trace-claude-code_openrouter-anthropic-claude-sonnet-4-6_b9iXV9y2jRyMLv6gpYUek8.eval": {
+    "eval_id": "YLWKNHShE3oruASTn8Je7M",
+    "run_id": "QdQy5tEDkWYgL5PTv5efSZ",
+    "task": "cv_task_F_trace_claude_code",
+    "task_id": "b9iXV9y2jRyMLv6gpYUek8",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-27T04:12:12+00:00",
+    "completed_at": "2026-04-27T04:20:08+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/trace/2026-04-27T03-59-31-00-00_cv-task-E-trace-claude-code_openrouter-anthropic-claude-sonnet-4-6_VetAwkn9giQdrVanhywf7K.eval": {
+    "eval_id": "UipNhA5DsRrqSz2eKugx8D",
+    "run_id": "fpHtRxZGFFw4cxMHDjSpgk",
+    "task": "cv_task_E_trace_claude_code",
+    "task_id": "VetAwkn9giQdrVanhywf7K",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-27T03:59:31+00:00",
+    "completed_at": "2026-04-27T04:12:03+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.2,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/trace/2026-04-27T03-49-14-00-00_cv-task-D-trace-claude-code_openrouter-anthropic-claude-sonnet-4-6_kdPZ5prBUTFNAh7aY3C2ZB.eval": {
+    "eval_id": "R5QgKHdG6Kj6J7bPGtQpZw",
+    "run_id": "UodajpYAfS6J7fbPTyvvbh",
+    "task": "cv_task_D_trace_claude_code",
+    "task_id": "kdPZ5prBUTFNAh7aY3C2ZB",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-27T03:49:15+00:00",
+    "completed_at": "2026-04-27T03:59:23+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.9,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/trace/2026-04-27T03-43-37-00-00_cv-task-C-trace-claude-code_openrouter-anthropic-claude-sonnet-4-6_3pUiRaVUqrq4pwUxCnCEUh.eval": {
+    "eval_id": "AH4A4mJmxFksXqLZNzmc44",
+    "run_id": "K2SEFHjTvLn42STyfo8k7u",
+    "task": "cv_task_C_trace_claude_code",
+    "task_id": "3pUiRaVUqrq4pwUxCnCEUh",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-27T03:43:37+00:00",
+    "completed_at": "2026-04-27T03:49:04+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.9,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/trace/2026-04-27T03-37-11-00-00_cv-task-B-trace-claude-code_openrouter-anthropic-claude-sonnet-4-6_6RWAb6SXo5pCyuzGBWM5en.eval": {
+    "eval_id": "ZtTwh6DYraiNrBhzrVheqW",
+    "run_id": "YutsMcf4YVbp6qFwSoSxyC",
+    "task": "cv_task_B_trace_claude_code",
+    "task_id": "6RWAb6SXo5pCyuzGBWM5en",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-27T03:37:11+00:00",
+    "completed_at": "2026-04-27T03:43:29+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/trace/2026-04-27T03-26-07-00-00_cv-task-A-trace-claude-code_openrouter-anthropic-claude-sonnet-4-6_Lzucf6RGQpbkMG5h5ELq4X.eval": {
+    "eval_id": "CFS2abTBfUCgTfbmzYkam5",
+    "run_id": "kxCK5bd6w2Lb5zcRohWkNr",
+    "task": "cv_task_A_trace_claude_code",
+    "task_id": "Lzucf6RGQpbkMG5h5ELq4X",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-27T03:26:07+00:00",
+    "completed_at": "2026-04-27T03:37:03+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.4,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T07-55-42-00-00_dst-task-D-claude-code_openrouter-anthropic-claude-opus-4-6_XBiDNURQazvK2wUM6pEELP.eval": {
+    "eval_id": "KmA359XrsJSTcVf6gUfDF8",
+    "run_id": "GHcbCuyAoMQdmUdiknPKJ2",
+    "task": "dst_task_D_claude_code",
+    "task_id": "XBiDNURQazvK2wUM6pEELP",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T07:55:42+00:00",
+    "completed_at": "2026-04-25T08:01:52+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T07-40-02-00-00_dst-task-C-claude-code_openrouter-anthropic-claude-opus-4-6_4FXWrHbgTxD435iMqQeQPW.eval": {
+    "eval_id": "X5JeUhk8qMtt5VxR2jCBTb",
+    "run_id": "c3myd9SMrij9V6vUzApPYK",
+    "task": "dst_task_C_claude_code",
+    "task_id": "4FXWrHbgTxD435iMqQeQPW",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T07:40:02+00:00",
+    "completed_at": "2026-04-25T07:55:33+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T07-28-20-00-00_dst-task-B-claude-code_openrouter-anthropic-claude-opus-4-6_EkCEinfyvdCPyjSqzt5Mf9.eval": {
+    "eval_id": "ZRsowPcSfduDYqFE5i6Mbi",
+    "run_id": "UUM7HQWmUePugcY78V7WR6",
+    "task": "dst_task_B_claude_code",
+    "task_id": "EkCEinfyvdCPyjSqzt5Mf9",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T07:28:21+00:00",
+    "completed_at": "2026-04-25T07:39:55+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.7,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T07-19-14-00-00_dst-task-A-claude-code_openrouter-anthropic-claude-opus-4-6_NEkiJiwo5vRGWekZpmUfVH.eval": {
+    "eval_id": "gyXryNdjAyzgvUes59bSZ9",
+    "run_id": "Vi67SvxmXypzku3axz5cjC",
+    "task": "dst_task_A_claude_code",
+    "task_id": "NEkiJiwo5vRGWekZpmUfVH",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T07:19:14+00:00",
+    "completed_at": "2026-04-25T07:28:13+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T06-29-37-00-00_dst-task-D-claude-code_openrouter-anthropic-claude-opus-4-6_hJWgtCNyZdgVYXZQ5Msouv.eval": {
+    "eval_id": "Dyngizoz8JgPpuynHQhD9n",
+    "run_id": "8PGpipzsA2QYsgZ3UpdaEe",
+    "task": "dst_task_D_claude_code",
+    "task_id": "hJWgtCNyZdgVYXZQ5Msouv",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T06:29:37+00:00",
+    "completed_at": "2026-04-25T06:33:19+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T06-22-11-00-00_dst-task-C-claude-code_openrouter-anthropic-claude-opus-4-6_2dsYpmwAwUMN27Hv7Nuk4H.eval": {
+    "eval_id": "9Uo7CTiRgNgDz2LG2knVkx",
+    "run_id": "V5XAgMZLmaDLcTb9ztqRdg",
+    "task": "dst_task_C_claude_code",
+    "task_id": "2dsYpmwAwUMN27Hv7Nuk4H",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T06:22:11+00:00",
+    "completed_at": "2026-04-25T06:29:31+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T06-07-28-00-00_dst-task-B-claude-code_openrouter-anthropic-claude-opus-4-6_H4JGsuyyYajjNB4u4U9NdD.eval": {
+    "eval_id": "PFc7Zjjb8puuX8J7KiqKzf",
+    "run_id": "2NbTMqieMaopMM44KNzyBL",
+    "task": "dst_task_B_claude_code",
+    "task_id": "H4JGsuyyYajjNB4u4U9NdD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T06:07:28+00:00",
+    "completed_at": "2026-04-25T06:22:04+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.8,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T05-58-27-00-00_dst-task-A-claude-code_openrouter-anthropic-claude-opus-4-6_AP5fC9ygtWsvVtuiLCZRCF.eval": {
+    "eval_id": "iUYRiBUwWBwgjh9LJDZpgL",
+    "run_id": "JNQo9GUkeNUikPbTkysYZM",
+    "task": "dst_task_A_claude_code",
+    "task_id": "AP5fC9ygtWsvVtuiLCZRCF",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T05:58:27+00:00",
+    "completed_at": "2026-04-25T06:07:21+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T05-27-20-00-00_dst-task-D-claude-code_openrouter-anthropic-claude-opus-4-6_C6Xtdk7iRvYxoedBmuADyY.eval": {
+    "eval_id": "RTQUBgN67DG4kPVPbzqq3v",
+    "run_id": "S5P8CAR5r3V7GSPE4kSiiF",
+    "task": "dst_task_D_claude_code",
+    "task_id": "C6Xtdk7iRvYxoedBmuADyY",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T05:27:20+00:00",
+    "completed_at": "2026-04-25T05:32:09+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T05-22-15-00-00_dst-task-C-claude-code_openrouter-anthropic-claude-opus-4-6_NAUaXFjmLgsdc4HEd9AVFW.eval": {
+    "eval_id": "eX86YF6JFsaPfyHHSrSXyV",
+    "run_id": "gr7u7GRZYHaweegJpS93Mi",
+    "task": "dst_task_C_claude_code",
+    "task_id": "NAUaXFjmLgsdc4HEd9AVFW",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T05:22:15+00:00",
+    "completed_at": "2026-04-25T05:27:13+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T05-13-38-00-00_dst-task-B-claude-code_openrouter-anthropic-claude-opus-4-6_NpsZPeNa4RDH9wfyGgWfqQ.eval": {
+    "eval_id": "LGLguijpVsrbjFvtKS74K6",
+    "run_id": "JTbrZGmioa7iRSrhU3syT5",
+    "task": "dst_task_B_claude_code",
+    "task_id": "NpsZPeNa4RDH9wfyGgWfqQ",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T05:13:38+00:00",
+    "completed_at": "2026-04-25T05:22:08+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "datasette/opus_4_6/baseline/2026-04-25T05-08-15-00-00_dst-task-A-claude-code_openrouter-anthropic-claude-opus-4-6_RmNncovuCjxg49grWLSkVB.eval": {
+    "eval_id": "3RZGayhhSwSvDvpxJ59vzc",
+    "run_id": "i5Kc9W6r2NoWhQVG5iz6nm",
+    "task": "dst_task_A_claude_code",
+    "task_id": "RmNncovuCjxg49grWLSkVB",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-25T05:08:15+00:00",
+    "completed_at": "2026-04-25T05:13:30+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.8,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T12-32-03-00-00_cv-task-H-d-claude-code_openrouter-anthropic-claude-opus-4-6_7q49omMHcSVfpSJJHzumCf.eval": {
+    "eval_id": "364gJXE6iTXvxcwxYSKMiw",
+    "run_id": "DdLTnn4zVSoS2x7v3hkb9d",
+    "task": "cv_task_H_d_claude_code",
+    "task_id": "7q49omMHcSVfpSJJHzumCf",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T12:32:03+00:00",
+    "completed_at": "2026-04-23T12:40:20+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T12-23-19-00-00_cv-task-H-c-claude-code_openrouter-anthropic-claude-opus-4-6_PaPEhryGYHDZ6xvtbxqwkS.eval": {
+    "eval_id": "VW3kBjyNhwfabWMosgS2CC",
+    "run_id": "aBabTBhwNrpGC9gVvs9xiD",
+    "task": "cv_task_H_c_claude_code",
+    "task_id": "PaPEhryGYHDZ6xvtbxqwkS",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T12:23:19+00:00",
+    "completed_at": "2026-04-23T12:31:56+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T12-13-12-00-00_cv-task-H-b-claude-code_openrouter-anthropic-claude-opus-4-6_fYH7mt6tiRuAZW9w3vyKiQ.eval": {
+    "eval_id": "Eqq6NTQXMReNVM2drRB9bD",
+    "run_id": "LdAManGjEpZuzNXwe6yLdR",
+    "task": "cv_task_H_b_claude_code",
+    "task_id": "fYH7mt6tiRuAZW9w3vyKiQ",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T12:13:12+00:00",
+    "completed_at": "2026-04-23T12:23:09+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.3,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T12-04-09-00-00_cv-task-H-a-claude-code_openrouter-anthropic-claude-opus-4-6_faQZpP4U6CBRmABYxymk3N.eval": {
+    "eval_id": "32jsMbyPGpnRC2STJj4YdW",
+    "run_id": "fDnYexgsoWUxxcCidYrwaQ",
+    "task": "cv_task_H_a_claude_code",
+    "task_id": "faQZpP4U6CBRmABYxymk3N",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T12:04:09+00:00",
+    "completed_at": "2026-04-23T12:13:03+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T11-12-34-00-00_cv-task-G-d-claude-code_openrouter-anthropic-claude-opus-4-6_k9aJXxLD9rWHhGUzv3ucdb.eval": {
+    "eval_id": "DrecdfKPoeq2fcwR9Ks6cf",
+    "run_id": "eh29YygTLjqAcZFhwTh8DZ",
+    "task": "cv_task_G_d_claude_code",
+    "task_id": "k9aJXxLD9rWHhGUzv3ucdb",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T11:12:34+00:00",
+    "completed_at": "2026-04-23T11:19:04+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T11-03-23-00-00_cv-task-G-c-claude-code_openrouter-anthropic-claude-opus-4-6_PnsjYMNqXdiirGF65WiyHL.eval": {
+    "eval_id": "H3DV38r4yLhgCCN2uNb9Gg",
+    "run_id": "DFHB25HfEhe8wCD8FuNRj9",
+    "task": "cv_task_G_c_claude_code",
+    "task_id": "PnsjYMNqXdiirGF65WiyHL",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T11:03:23+00:00",
+    "completed_at": "2026-04-23T11:12:22+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T10-51-28-00-00_cv-task-G-b-claude-code_openrouter-anthropic-claude-opus-4-6_X9uAWvyTi2DpZ2NFM9HNFb.eval": {
+    "eval_id": "9zTvqMbz3MVQy3YwTKgyoP",
+    "run_id": "SSZpw9FoFLCjxzKHxoKYbo",
+    "task": "cv_task_G_b_claude_code",
+    "task_id": "X9uAWvyTi2DpZ2NFM9HNFb",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T10:51:28+00:00",
+    "completed_at": "2026-04-23T11:03:15+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.4,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T10-40-40-00-00_cv-task-G-a-claude-code_openrouter-anthropic-claude-opus-4-6_WfykkrtjPTthRazBCcZPQu.eval": {
+    "eval_id": "HFnPtD4GSrANZ6rVwTDSsx",
+    "run_id": "gmXgrKmPHkzdKiW844UN8K",
+    "task": "cv_task_G_a_claude_code",
+    "task_id": "WfykkrtjPTthRazBCcZPQu",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T10:40:40+00:00",
+    "completed_at": "2026-04-23T10:51:17+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T10-28-28-00-00_cv-task-F-tests-d-claude-code_openrouter-anthropic-claude-opus-4-6_dP8HEeKCKzfpkciHDYBVEz.eval": {
+    "eval_id": "nCoWHBYsndsfhzZ2CWj556",
+    "run_id": "nXfQiK4oWNrrRyiEzLbw4J",
+    "task": "cv_task_F_tests_d_claude_code",
+    "task_id": "dP8HEeKCKzfpkciHDYBVEz",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T10:28:29+00:00",
+    "completed_at": "2026-04-23T10:40:32+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T10-13-56-00-00_cv-task-F-tests-c-claude-code_openrouter-anthropic-claude-opus-4-6_Gpht6mmwEu9qvA5Gs3RL44.eval": {
+    "eval_id": "MS5HXnnPDL5T8P6xwJfBCR",
+    "run_id": "RkcHxvYkTpEwCFBXr627mo",
+    "task": "cv_task_F_tests_c_claude_code",
+    "task_id": "Gpht6mmwEu9qvA5Gs3RL44",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T10:13:56+00:00",
+    "completed_at": "2026-04-23T10:28:16+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T09-59-06-00-00_cv-task-F-tests-b-claude-code_openrouter-anthropic-claude-opus-4-6_aENBdakxwChSVnFx6S2fvj.eval": {
+    "eval_id": "4ch9nMo4pAQH6VnSwoeBWP",
+    "run_id": "VaCxRS6iwfDHbtM2TdGZ3Q",
+    "task": "cv_task_F_tests_b_claude_code",
+    "task_id": "aENBdakxwChSVnFx6S2fvj",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T09:59:06+00:00",
+    "completed_at": "2026-04-23T10:13:46+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T09-46-39-00-00_cv-task-F-tests-a-claude-code_openrouter-anthropic-claude-opus-4-6_fnTnhKMVtgxJQRAM2kcULo.eval": {
+    "eval_id": "hqV2fMUH2KPDzAs964tAur",
+    "run_id": "YS9TzFApn9WxP6ka2xzUDj",
+    "task": "cv_task_F_tests_a_claude_code",
+    "task_id": "fnTnhKMVtgxJQRAM2kcULo",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T09:46:39+00:00",
+    "completed_at": "2026-04-23T09:58:58+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T09-33-49-00-00_cv-task-E-tests-d-claude-code_openrouter-anthropic-claude-opus-4-6_kots7q6EG7fpJDszHhamZb.eval": {
+    "eval_id": "587NQXWqJMRLeoRE6XwNd4",
+    "run_id": "8NguY9owxK9A9ARkopCCVb",
+    "task": "cv_task_E_tests_d_claude_code",
+    "task_id": "kots7q6EG7fpJDszHhamZb",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T09:33:49+00:00",
+    "completed_at": "2026-04-23T09:46:32+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T09-20-43-00-00_cv-task-E-tests-c-claude-code_openrouter-anthropic-claude-opus-4-6_UHHUhjYJqQKKtYXAyNDxyT.eval": {
+    "eval_id": "EjA7xYkLXcNHYwVbm6BaFg",
+    "run_id": "nsQM4vT4SDRSDnhrNYLgSX",
+    "task": "cv_task_E_tests_c_claude_code",
+    "task_id": "UHHUhjYJqQKKtYXAyNDxyT",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T09:20:44+00:00",
+    "completed_at": "2026-04-23T09:33:42+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T09-06-19-00-00_cv-task-E-tests-b-claude-code_openrouter-anthropic-claude-opus-4-6_XLjiNs47WGbxgtAkNkM5xE.eval": {
+    "eval_id": "VewcVmxoCn5Tu3qKKg6hwH",
+    "run_id": "3m2goz7UysMGmNWCaLTRr9",
+    "task": "cv_task_E_tests_b_claude_code",
+    "task_id": "XLjiNs47WGbxgtAkNkM5xE",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T09:06:19+00:00",
+    "completed_at": "2026-04-23T09:20:36+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T08-52-57-00-00_cv-task-E-tests-a-claude-code_openrouter-anthropic-claude-opus-4-6_SG4q8SjWeQeGssj2DhRNdy.eval": {
+    "eval_id": "D3zSfy6ZwbeD599CqjHC5G",
+    "run_id": "RPX7p5Jsvj52WGvBykDgPE",
+    "task": "cv_task_E_tests_a_claude_code",
+    "task_id": "SG4q8SjWeQeGssj2DhRNdy",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T08:52:58+00:00",
+    "completed_at": "2026-04-23T09:06:12+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T08-31-46-00-00_cv-task-D-d-claude-code_openrouter-anthropic-claude-opus-4-6_37Sw2PhASKTtJEpiVy7GKJ.eval": {
+    "eval_id": "jh33KWk4weV8KuhzUh8XVd",
+    "run_id": "oLa6KYfKQbRzpffoou2Dwz",
+    "task": "cv_task_D_d_claude_code",
+    "task_id": "37Sw2PhASKTtJEpiVy7GKJ",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T08:31:46+00:00",
+    "completed_at": "2026-04-23T08:35:49+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T08-24-16-00-00_cv-task-D-c-claude-code_openrouter-anthropic-claude-opus-4-6_GLFiLeYh9fC9dqZKkf3K7Q.eval": {
+    "eval_id": "nHLm6bWhSCEHxac9exGLgj",
+    "run_id": "7kqCEzS8BLzhKaqVNWhjew",
+    "task": "cv_task_D_c_claude_code",
+    "task_id": "GLFiLeYh9fC9dqZKkf3K7Q",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T08:24:16+00:00",
+    "completed_at": "2026-04-23T08:31:39+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T08-15-52-00-00_cv-task-D-b-claude-code_openrouter-anthropic-claude-opus-4-6_4VsuAujQU2idKwCPcigBGH.eval": {
+    "eval_id": "KqGsPpFewAruY6dLPraDAN",
+    "run_id": "GZC7ontMa7pgCJHZxq33ut",
+    "task": "cv_task_D_b_claude_code",
+    "task_id": "4VsuAujQU2idKwCPcigBGH",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T08:15:52+00:00",
+    "completed_at": "2026-04-23T08:24:05+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.3,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T08-03-01-00-00_cv-task-D-a-claude-code_openrouter-anthropic-claude-opus-4-6_h2PeFduHVVuEfm5P7JKYX8.eval": {
+    "eval_id": "k6Ln4K3pzQL3h3voMhuWHs",
+    "run_id": "W4278TxVTzvACgcz3NbxwB",
+    "task": "cv_task_D_a_claude_code",
+    "task_id": "h2PeFduHVVuEfm5P7JKYX8",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T08:03:02+00:00",
+    "completed_at": "2026-04-23T08:15:44+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T07-56-07-00-00_cv-task-C-d-claude-code_openrouter-anthropic-claude-opus-4-6_ao3HLL7Gny8PNY7mtRd9BV.eval": {
+    "eval_id": "A4avckLiLah2wPx9w7cLW5",
+    "run_id": "6znTqN7qULY2BAvJWu6zxT",
+    "task": "cv_task_C_d_claude_code",
+    "task_id": "ao3HLL7Gny8PNY7mtRd9BV",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T07:56:07+00:00",
+    "completed_at": "2026-04-23T08:02:52+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T07-51-45-00-00_cv-task-C-c-claude-code_openrouter-anthropic-claude-opus-4-6_n8Pi6TVTsePtD2dt4UAYGm.eval": {
+    "eval_id": "WBsiGYhhsS2zGLXZ7G9iHw",
+    "run_id": "ge3byPnCqei9iJ7wrRwCEY",
+    "task": "cv_task_C_c_claude_code",
+    "task_id": "n8Pi6TVTsePtD2dt4UAYGm",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T07:51:45+00:00",
+    "completed_at": "2026-04-23T07:56:00+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T07-41-07-00-00_cv-task-C-b-claude-code_openrouter-anthropic-claude-opus-4-6_NoBVKFBWC8zTbp4ZucTykB.eval": {
+    "eval_id": "gGuWVTQueiCUtnLbAtgDb6",
+    "run_id": "CquqNwa4NQuB735bnRFmsD",
+    "task": "cv_task_C_b_claude_code",
+    "task_id": "NoBVKFBWC8zTbp4ZucTykB",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T07:41:07+00:00",
+    "completed_at": "2026-04-23T07:51:36+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.2,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T07-33-25-00-00_cv-task-C-a-claude-code_openrouter-anthropic-claude-opus-4-6_YgZj38DaWsTuawcdWmm9rD.eval": {
+    "eval_id": "3DZBPWge9e4uwuv7uAgS2K",
+    "run_id": "BuYFuHGwcwhjHR29Lh22Ne",
+    "task": "cv_task_C_a_claude_code",
+    "task_id": "YgZj38DaWsTuawcdWmm9rD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T07:33:25+00:00",
+    "completed_at": "2026-04-23T07:40:59+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T07-28-23-00-00_cv-task-B-tests-d-claude-code_openrouter-anthropic-claude-opus-4-6_UeE2sxjNd73JAGsFkiihpA.eval": {
+    "eval_id": "YQoSdNeEAFbcLTk68cp6xW",
+    "run_id": "XtYmHkKwdUV5SNEWBo2y6z",
+    "task": "cv_task_B_tests_d_claude_code",
+    "task_id": "UeE2sxjNd73JAGsFkiihpA",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T07:28:23+00:00",
+    "completed_at": "2026-04-23T07:33:18+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T07-19-56-00-00_cv-task-B-tests-c-claude-code_openrouter-anthropic-claude-opus-4-6_YCteAjxZj8L7qpyGWnWwaF.eval": {
+    "eval_id": "fobsZxHqzWFZ4A6bfYcUMb",
+    "run_id": "ZQJgoKhDdoRusCjmPkahoT",
+    "task": "cv_task_B_tests_c_claude_code",
+    "task_id": "YCteAjxZj8L7qpyGWnWwaF",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T07:19:56+00:00",
+    "completed_at": "2026-04-23T07:28:16+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T07-11-31-00-00_cv-task-B-tests-b-claude-code_openrouter-anthropic-claude-opus-4-6_PTLQVm95UerTkT2FbvH8wp.eval": {
+    "eval_id": "J4trcB98RhB6mcUywG4Dm4",
+    "run_id": "J5UgdzMCnWT28ogCa5WAWn",
+    "task": "cv_task_B_tests_b_claude_code",
+    "task_id": "PTLQVm95UerTkT2FbvH8wp",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T07:11:31+00:00",
+    "completed_at": "2026-04-23T07:19:48+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T07-02-52-00-00_cv-task-B-tests-a-claude-code_openrouter-anthropic-claude-opus-4-6_U756Q8akk5MbkGFjM7r2N9.eval": {
+    "eval_id": "2xKiNhLNvAEqUpWZ5Mxy3w",
+    "run_id": "iiGwnSksM3UYL78Bn7d3q5",
+    "task": "cv_task_B_tests_a_claude_code",
+    "task_id": "U756Q8akk5MbkGFjM7r2N9",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T07:02:52+00:00",
+    "completed_at": "2026-04-23T07:11:19+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T06-54-46-00-00_cv-task-A-tests-d-claude-code_openrouter-anthropic-claude-opus-4-6_je6hym9k8WJmoAFrTxtb4Y.eval": {
+    "eval_id": "nCsWLXM9QerKvd6aPv6PuD",
+    "run_id": "M8eTCnNYGQ2gaUJqUb3hJq",
+    "task": "cv_task_A_tests_d_claude_code",
+    "task_id": "je6hym9k8WJmoAFrTxtb4Y",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T06:54:46+00:00",
+    "completed_at": "2026-04-23T07:02:42+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T06-39-56-00-00_cv-task-A-tests-c-claude-code_openrouter-anthropic-claude-opus-4-6_D9ufKgzCucZDqVBE9WwKrP.eval": {
+    "eval_id": "JjgGXzpKGfgZ4HkAMjLgCy",
+    "run_id": "9wAUF7kpBREtyEBRJRmet4",
+    "task": "cv_task_A_tests_c_claude_code",
+    "task_id": "D9ufKgzCucZDqVBE9WwKrP",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T06:39:56+00:00",
+    "completed_at": "2026-04-23T06:54:38+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T06-27-31-00-00_cv-task-A-tests-b-claude-code_openrouter-anthropic-claude-opus-4-6_BGrvApAKjrciqunEWE4YVe.eval": {
+    "eval_id": "D6WLLHvRsXCdCFoKh7sggS",
+    "run_id": "hGpY3Tvp9MYTLNj6wd2aVX",
+    "task": "cv_task_A_tests_b_claude_code",
+    "task_id": "BGrvApAKjrciqunEWE4YVe",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T06:27:31+00:00",
+    "completed_at": "2026-04-23T06:39:49+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/gradient/2026-04-23T06-16-10-00-00_cv-task-A-tests-a-claude-code_openrouter-anthropic-claude-opus-4-6_483Fj9jvc49e9F5mHwZY3m.eval": {
+    "eval_id": "BZvKCLYwVmohoJJL6Vn7sY",
+    "run_id": "kKgpSx2fJjDesuutTtWqie",
+    "task": "cv_task_A_tests_a_claude_code",
+    "task_id": "483Fj9jvc49e9F5mHwZY3m",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-23T06:16:10+00:00",
+    "completed_at": "2026-04-23T06:27:24+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.1,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T05-18-50-00-00_cv-task-H-d-claude-code_openrouter-anthropic-claude-sonnet-4-6_gGtkM98tDLQh2Tg6soCNYU.eval": {
+    "eval_id": "3LTBfDfUk8RuayKQLHqZQa",
+    "run_id": "RcSBFyBXxTTiEfepvLfFvC",
+    "task": "cv_task_H_d_claude_code",
+    "task_id": "gGtkM98tDLQh2Tg6soCNYU",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T05:18:50+00:00",
+    "completed_at": "2026-04-23T05:26:29+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T05-13-08-00-00_cv-task-H-c-claude-code_openrouter-anthropic-claude-sonnet-4-6_PqqaaHX4ENKDUnXX6kcBdJ.eval": {
+    "eval_id": "SMXm7eRcyyb7qAoh3aASup",
+    "run_id": "mPxQrp7uVJxvGUEQMGUKk5",
+    "task": "cv_task_H_c_claude_code",
+    "task_id": "PqqaaHX4ENKDUnXX6kcBdJ",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T05:13:08+00:00",
+    "completed_at": "2026-04-23T05:18:43+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T05-03-31-00-00_cv-task-H-b-claude-code_openrouter-anthropic-claude-sonnet-4-6_WFALQT3rjGMPvFCwCS57oG.eval": {
+    "eval_id": "mpJynx6oaBAxXQ5tVTCywm",
+    "run_id": "7eKwGqdJH4mPWV48pT6MbT",
+    "task": "cv_task_H_b_claude_code",
+    "task_id": "WFALQT3rjGMPvFCwCS57oG",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T05:03:31+00:00",
+    "completed_at": "2026-04-23T05:13:00+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.3,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T04-54-24-00-00_cv-task-H-a-claude-code_openrouter-anthropic-claude-sonnet-4-6_8qq2VeCe7crPZQY2EnkEg4.eval": {
+    "eval_id": "9PeW6mRksV2UbVk6J5CFQe",
+    "run_id": "Ha4PGhRjJtKkEKc2SGYvNm",
+    "task": "cv_task_H_a_claude_code",
+    "task_id": "8qq2VeCe7crPZQY2EnkEg4",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T04:54:25+00:00",
+    "completed_at": "2026-04-23T05:03:24+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T04-44-39-00-00_cv-task-G-d-claude-code_openrouter-anthropic-claude-sonnet-4-6_RQFrJwZMYgPvMGcsRLoE4x.eval": {
+    "eval_id": "WZaxb2f4hAuRYQje7Yzicc",
+    "run_id": "JbaLSsCSCA3VNTY9cuFX4w",
+    "task": "cv_task_G_d_claude_code",
+    "task_id": "RQFrJwZMYgPvMGcsRLoE4x",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T04:44:39+00:00",
+    "completed_at": "2026-04-23T04:54:17+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T04-35-35-00-00_cv-task-G-c-claude-code_openrouter-anthropic-claude-sonnet-4-6_WFhPrXfFtwMsZbJrwm789J.eval": {
+    "eval_id": "mYYC5D8oVdM8VJfTrKtes9",
+    "run_id": "VMMEgYuB7QJvZKSFZ3rCma",
+    "task": "cv_task_G_c_claude_code",
+    "task_id": "WFhPrXfFtwMsZbJrwm789J",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T04:35:36+00:00",
+    "completed_at": "2026-04-23T04:44:33+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T04-25-24-00-00_cv-task-G-b-claude-code_openrouter-anthropic-claude-sonnet-4-6_6rbMxioTEV7KFNx5ZWuVhD.eval": {
+    "eval_id": "8BrK6b2kcm54vK2JT4Cgwh",
+    "run_id": "9dyE6GyGAEWKPCzyyNhJYQ",
+    "task": "cv_task_G_b_claude_code",
+    "task_id": "6rbMxioTEV7KFNx5ZWuVhD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T04:25:24+00:00",
+    "completed_at": "2026-04-23T04:35:27+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.3,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T04-18-11-00-00_cv-task-G-a-claude-code_openrouter-anthropic-claude-sonnet-4-6_Ujb2bCqeAvgHnwReYALWWc.eval": {
+    "eval_id": "Gv5fVL8tNRgFc9MxiWryGe",
+    "run_id": "JXzyUq6VXEB6fp5AaoPjjp",
+    "task": "cv_task_G_a_claude_code",
+    "task_id": "Ujb2bCqeAvgHnwReYALWWc",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T04:18:11+00:00",
+    "completed_at": "2026-04-23T04:25:17+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T04-09-05-00-00_cv-task-F-tests-d-claude-code_openrouter-anthropic-claude-sonnet-4-6_Ymye5vjKtGou5uVSnykfTN.eval": {
+    "eval_id": "cJTaKNt8ySGK4TTaopvMaw",
+    "run_id": "ehERfPQA2UvPhTgH8cZXMz",
+    "task": "cv_task_F_tests_d_claude_code",
+    "task_id": "Ymye5vjKtGou5uVSnykfTN",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T04:09:05+00:00",
+    "completed_at": "2026-04-23T04:18:03+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T03-57-03-00-00_cv-task-F-tests-c-claude-code_openrouter-anthropic-claude-sonnet-4-6_btgAwuwZvtzBfmjtpHHYuK.eval": {
+    "eval_id": "LfXqPrwiFAmL8FwDZGrBtk",
+    "run_id": "35Rg7hRAKh9gAzKENqvk6e",
+    "task": "cv_task_F_tests_c_claude_code",
+    "task_id": "btgAwuwZvtzBfmjtpHHYuK",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T03:57:03+00:00",
+    "completed_at": "2026-04-23T04:08:57+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T03-45-30-00-00_cv-task-F-tests-b-claude-code_openrouter-anthropic-claude-sonnet-4-6_iXR3kgAYwPYT6MbNjaDSFr.eval": {
+    "eval_id": "cveMS8w2idqV2jaz7Y5CLm",
+    "run_id": "Q4KeqVnHFmwG4H3UWuHzsE",
+    "task": "cv_task_F_tests_b_claude_code",
+    "task_id": "iXR3kgAYwPYT6MbNjaDSFr",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T03:45:30+00:00",
+    "completed_at": "2026-04-23T03:56:56+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T03-34-03-00-00_cv-task-F-tests-a-claude-code_openrouter-anthropic-claude-sonnet-4-6_FPFyMgSLR3qVwH4VaQumHB.eval": {
+    "eval_id": "g34tvC8SkHBZq3G3XXCRYx",
+    "run_id": "TLCMJWYRwcWvcG3BpimZAZ",
+    "task": "cv_task_F_tests_a_claude_code",
+    "task_id": "FPFyMgSLR3qVwH4VaQumHB",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T03:34:03+00:00",
+    "completed_at": "2026-04-23T03:45:22+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T03-21-58-00-00_cv-task-E-tests-d-claude-code_openrouter-anthropic-claude-sonnet-4-6_Sn3CSiJso7eoaM2qdn64Lb.eval": {
+    "eval_id": "mpDRrtukSvsND7jxyyZ5tq",
+    "run_id": "EAe43GViCGsBo5PWXGqDqs",
+    "task": "cv_task_E_tests_d_claude_code",
+    "task_id": "Sn3CSiJso7eoaM2qdn64Lb",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T03:21:58+00:00",
+    "completed_at": "2026-04-23T03:33:56+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T03-10-03-00-00_cv-task-E-tests-c-claude-code_openrouter-anthropic-claude-sonnet-4-6_J6S4UD9VS7yAM2Xrn32zB3.eval": {
+    "eval_id": "JWSzXdhs4JZS6KJZerPUXE",
+    "run_id": "NDBLYyTZHzEwd9CAxKuDLT",
+    "task": "cv_task_E_tests_c_claude_code",
+    "task_id": "J6S4UD9VS7yAM2Xrn32zB3",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T03:10:03+00:00",
+    "completed_at": "2026-04-23T03:21:51+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T02-57-38-00-00_cv-task-E-tests-b-claude-code_openrouter-anthropic-claude-sonnet-4-6_6tjUQ4fsTiGbvvG66nJBLa.eval": {
+    "eval_id": "DbpGDNdYTDDpFfrmvkDi7z",
+    "run_id": "dGsi7KLvhuLgJ8y8qGmJ8q",
+    "task": "cv_task_E_tests_b_claude_code",
+    "task_id": "6tjUQ4fsTiGbvvG66nJBLa",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T02:57:38+00:00",
+    "completed_at": "2026-04-23T03:09:56+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.1,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T02-37-17-00-00_cv-task-E-tests-a-claude-code_openrouter-anthropic-claude-sonnet-4-6_BoEjEncY25mqxSXLaVnJVt.eval": {
+    "eval_id": "ZeBtsjviAbPquFjWaw7idw",
+    "run_id": "YF9fbjHqjQJrZwC75qPDen",
+    "task": "cv_task_E_tests_a_claude_code",
+    "task_id": "BoEjEncY25mqxSXLaVnJVt",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T02:37:17+00:00",
+    "completed_at": "2026-04-23T02:57:32+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.2,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T02-28-40-00-00_cv-task-D-d-claude-code_openrouter-anthropic-claude-sonnet-4-6_iBpzGiQojZFsUNmh2jpRoX.eval": {
+    "eval_id": "7TWpkTCPiU6abA46Zj3tq2",
+    "run_id": "E8LoxPBkqMS8FJC88szysN",
+    "task": "cv_task_D_d_claude_code",
+    "task_id": "iBpzGiQojZFsUNmh2jpRoX",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T02:28:40+00:00",
+    "completed_at": "2026-04-23T02:37:11+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T02-20-17-00-00_cv-task-D-c-claude-code_openrouter-anthropic-claude-sonnet-4-6_kvaN2LRPNq7omrgAfA6xaz.eval": {
+    "eval_id": "8N78JiScgT9RL4BhugTdSA",
+    "run_id": "6bmL9bP5YiSardUMy2fivq",
+    "task": "cv_task_D_c_claude_code",
+    "task_id": "kvaN2LRPNq7omrgAfA6xaz",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T02:20:17+00:00",
+    "completed_at": "2026-04-23T02:28:34+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T02-09-26-00-00_cv-task-D-b-claude-code_openrouter-anthropic-claude-sonnet-4-6_7fzrRqmRwMdxGkcXQ7w6WS.eval": {
+    "eval_id": "DPU4ZyFzRD4GzHGSED8NnP",
+    "run_id": "QK7E5a4AEAQQL9ZZiFq6Yy",
+    "task": "cv_task_D_b_claude_code",
+    "task_id": "7fzrRqmRwMdxGkcXQ7w6WS",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T02:09:26+00:00",
+    "completed_at": "2026-04-23T02:20:10+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.2,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T01-56-22-00-00_cv-task-D-a-claude-code_openrouter-anthropic-claude-sonnet-4-6_MdrgVo9J6Hp5s33e7gB2v6.eval": {
+    "eval_id": "Cu4umkDjFz5rd632Vh7Q9F",
+    "run_id": "TbfVqUGQ6Qb6D4mHgkM69q",
+    "task": "cv_task_D_a_claude_code",
+    "task_id": "MdrgVo9J6Hp5s33e7gB2v6",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T01:56:23+00:00",
+    "completed_at": "2026-04-23T02:09:19+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T01-51-36-00-00_cv-task-C-d-claude-code_openrouter-anthropic-claude-sonnet-4-6_BUTRUamhUvUqtXj9uUpJTL.eval": {
+    "eval_id": "PwSM8A5UPjfhKPZE5dshSQ",
+    "run_id": "kn4cq3yGx8MtgNmzHvzGHz",
+    "task": "cv_task_C_d_claude_code",
+    "task_id": "BUTRUamhUvUqtXj9uUpJTL",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T01:51:36+00:00",
+    "completed_at": "2026-04-23T01:56:15+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T01-41-44-00-00_cv-task-C-c-claude-code_openrouter-anthropic-claude-sonnet-4-6_irjsuM53futsXLB2jW8qEe.eval": {
+    "eval_id": "WdYaG84Zunm6kw3eJQa8Zr",
+    "run_id": "DV9WPvipXS28Qpu6jeGA4X",
+    "task": "cv_task_C_c_claude_code",
+    "task_id": "irjsuM53futsXLB2jW8qEe",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T01:41:44+00:00",
+    "completed_at": "2026-04-23T01:51:29+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T01-26-53-00-00_cv-task-C-b-claude-code_openrouter-anthropic-claude-sonnet-4-6_f9zYsaPt94eHN8TN7FbvMY.eval": {
+    "eval_id": "ZmkUwZdFNVtZ2RJyvBvtgu",
+    "run_id": "dffPVYFUHNYrrfgRVNevjM",
+    "task": "cv_task_C_b_claude_code",
+    "task_id": "f9zYsaPt94eHN8TN7FbvMY",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T01:26:53+00:00",
+    "completed_at": "2026-04-23T01:41:36+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.2,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T01-11-51-00-00_cv-task-C-a-claude-code_openrouter-anthropic-claude-sonnet-4-6_RPLoNVBcpMN6HHjeHdkrVA.eval": {
+    "eval_id": "7TzYAhxVH37pT6TmvRKC2M",
+    "run_id": "FdhRzpF2WC4q8cFccnsPmZ",
+    "task": "cv_task_C_a_claude_code",
+    "task_id": "RPLoNVBcpMN6HHjeHdkrVA",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T01:11:51+00:00",
+    "completed_at": "2026-04-23T01:26:37+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T01-03-55-00-00_cv-task-B-tests-d-claude-code_openrouter-anthropic-claude-sonnet-4-6_VBZx6f3aUPFRAepeBVW594.eval": {
+    "eval_id": "ASeRHjsawxed4cKhVtBTh8",
+    "run_id": "3C6X3V7cC82ThXqSyLxYQe",
+    "task": "cv_task_B_tests_d_claude_code",
+    "task_id": "VBZx6f3aUPFRAepeBVW594",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T01:03:55+00:00",
+    "completed_at": "2026-04-23T01:11:38+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T00-56-50-00-00_cv-task-B-tests-c-claude-code_openrouter-anthropic-claude-sonnet-4-6_NdDoci3CKb9TuCWtiVNXgr.eval": {
+    "eval_id": "6JAYDJtJZ5BfoCMh2a9Fyw",
+    "run_id": "J8XCg8552uJFRdzEP8xypT",
+    "task": "cv_task_B_tests_c_claude_code",
+    "task_id": "NdDoci3CKb9TuCWtiVNXgr",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T00:56:50+00:00",
+    "completed_at": "2026-04-23T01:03:43+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T00-45-09-00-00_cv-task-B-tests-b-claude-code_openrouter-anthropic-claude-sonnet-4-6_PErVzDBAVUjsDuMvRVWRTb.eval": {
+    "eval_id": "3RMonu6vx36NxHYA9GUfim",
+    "run_id": "9RSaNME8rStsFhcpsAzWtZ",
+    "task": "cv_task_B_tests_b_claude_code",
+    "task_id": "PErVzDBAVUjsDuMvRVWRTb",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T00:45:09+00:00",
+    "completed_at": "2026-04-23T00:56:39+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.1,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T00-37-49-00-00_cv-task-B-tests-a-claude-code_openrouter-anthropic-claude-sonnet-4-6_DQjMSKzbxVjExV2cPZqezm.eval": {
+    "eval_id": "DSBMPdE7bUMy9Xw9fqZqzF",
+    "run_id": "7GWoPM4E4GZe3GpPY4qgEm",
+    "task": "cv_task_B_tests_a_claude_code",
+    "task_id": "DQjMSKzbxVjExV2cPZqezm",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T00:37:49+00:00",
+    "completed_at": "2026-04-23T00:45:01+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T00-30-47-00-00_cv-task-A-tests-d-claude-code_openrouter-anthropic-claude-sonnet-4-6_PaYfLvfa5EvWKc6nmzrxvn.eval": {
+    "eval_id": "jD8H3vZdrzqbk6FseCVueY",
+    "run_id": "KFLqRBz4UXpqreNUKFwDRx",
+    "task": "cv_task_A_tests_d_claude_code",
+    "task_id": "PaYfLvfa5EvWKc6nmzrxvn",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T00:30:47+00:00",
+    "completed_at": "2026-04-23T00:37:42+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T00-21-56-00-00_cv-task-A-tests-c-claude-code_openrouter-anthropic-claude-sonnet-4-6_2b35dNsbJwAbiYQP6BQCsB.eval": {
+    "eval_id": "5cuwkuhbh3n6oFgeheovDX",
+    "run_id": "9RdneLF9x2J8EkopLSX8FM",
+    "task": "cv_task_A_tests_c_claude_code",
+    "task_id": "2b35dNsbJwAbiYQP6BQCsB",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T00:21:56+00:00",
+    "completed_at": "2026-04-23T00:30:37+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-23T00-10-43-00-00_cv-task-A-tests-b-claude-code_openrouter-anthropic-claude-sonnet-4-6_jwKsyGHCcK8XctzzvuDeiN.eval": {
+    "eval_id": "CK6UBd3ctzBJgLHY4uF8eW",
+    "run_id": "3BJsAPr3kv8DJVopLCKaLY",
+    "task": "cv_task_A_tests_b_claude_code",
+    "task_id": "jwKsyGHCcK8XctzzvuDeiN",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-23T00:10:43+00:00",
+    "completed_at": "2026-04-23T00:21:49+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/gradient/2026-04-22T23-51-43-00-00_cv-task-A-tests-a-claude-code_openrouter-anthropic-claude-sonnet-4-6_GzHUAT4sQ68vJwV9gGc6tW.eval": {
+    "eval_id": "nVUvgjuwbxEMCnANhm7HRQ",
+    "run_id": "ApDcFv8pmaSQWsb643gXA5",
+    "task": "cv_task_A_tests_a_claude_code",
+    "task_id": "GzHUAT4sQ68vJwV9gGc6tW",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-22T23:51:43+00:00",
+    "completed_at": "2026-04-23T00:10:32+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.1,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T07-33-28-00-00_cv-task-H-d-codex-cli_openrouter-openai-gpt-5.4_PbPjRHYbsoQSutGVp7g5Yi.eval": {
+    "eval_id": "4xibmw3w7AuGbcgeFgVXCx",
+    "run_id": "5VtCmCBrDkP3F5XPoPCKjE",
+    "task": "cv_task_H_d_codex_cli",
+    "task_id": "PbPjRHYbsoQSutGVp7g5Yi",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T07:33:28+00:00",
+    "completed_at": "2026-04-22T07:36:21+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T07-29-11-00-00_cv-task-H-c-codex-cli_openrouter-openai-gpt-5.4_gzwDLAUU78BAP39Fci7WNM.eval": {
+    "eval_id": "FnrmzFrx8n6QeH9HagWaEE",
+    "run_id": "FddoK6VtQ6HsGYuzLJaUZt",
+    "task": "cv_task_H_c_codex_cli",
+    "task_id": "gzwDLAUU78BAP39Fci7WNM",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T07:29:11+00:00",
+    "completed_at": "2026-04-22T07:33:21+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T07-23-49-00-00_cv-task-H-b-codex-cli_openrouter-openai-gpt-5.4_FBZGc4m8xSHxtMDT9zRxvb.eval": {
+    "eval_id": "ENgutZqTVgKhoSzgsPufze",
+    "run_id": "VFyen7uBDLTEQqUQHqpm3D",
+    "task": "cv_task_H_b_codex_cli",
+    "task_id": "FBZGc4m8xSHxtMDT9zRxvb",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T07:23:49+00:00",
+    "completed_at": "2026-04-22T07:29:05+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.9,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T07-19-34-00-00_cv-task-H-a-codex-cli_openrouter-openai-gpt-5.4_X9GKytwsmwk5HzDJ62JFgJ.eval": {
+    "eval_id": "SAPRUbWL3UTDrS4hGMfE5m",
+    "run_id": "CLbq5eWfqpuKq8GwNssVT5",
+    "task": "cv_task_H_a_codex_cli",
+    "task_id": "X9GKytwsmwk5HzDJ62JFgJ",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T07:19:34+00:00",
+    "completed_at": "2026-04-22T07:23:43+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.2,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T07-15-34-00-00_cv-task-G-d-codex-cli_openrouter-openai-gpt-5.4_4u9yHdLNQknEeHHZ9bhyD8.eval": {
+    "eval_id": "FcTRsMjeyFF585Q9aW88nM",
+    "run_id": "jzjsKY72pQKf8Wkd3CWYPR",
+    "task": "cv_task_G_d_codex_cli",
+    "task_id": "4u9yHdLNQknEeHHZ9bhyD8",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T07:15:34+00:00",
+    "completed_at": "2026-04-22T07:19:28+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T07-11-21-00-00_cv-task-G-c-codex-cli_openrouter-openai-gpt-5.4_bggn9hL7QPV6TnPNCqiyZK.eval": {
+    "eval_id": "CYRwy3o4P7nhzR48GaxzZR",
+    "run_id": "kTSUbJNpC7sJjBPDtU425e",
+    "task": "cv_task_G_c_codex_cli",
+    "task_id": "bggn9hL7QPV6TnPNCqiyZK",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T07:11:21+00:00",
+    "completed_at": "2026-04-22T07:15:27+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T07-05-38-00-00_cv-task-G-b-codex-cli_openrouter-openai-gpt-5.4_eUWLSHbgBr4QZST2PcWhNR.eval": {
+    "eval_id": "aNYZoqY88KC6euCBfhYwLN",
+    "run_id": "LqEZ7jJbGtVjBXk5Ny7ygW",
+    "task": "cv_task_G_b_codex_cli",
+    "task_id": "eUWLSHbgBr4QZST2PcWhNR",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T07:05:38+00:00",
+    "completed_at": "2026-04-22T07:11:14+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T07-03-25-00-00_cv-task-G-a-codex-cli_openrouter-openai-gpt-5.4_eNbjffWHvBJMhEsU7Pa4y7.eval": {
+    "eval_id": "XzFZKHLj3NS3v4wwZCesbb",
+    "run_id": "cbXewsm4szxWdk6Jk3W9ER",
+    "task": "cv_task_G_a_codex_cli",
+    "task_id": "eNbjffWHvBJMhEsU7Pa4y7",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T07:03:25+00:00",
+    "completed_at": "2026-04-22T07:05:31+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T07-01-10-00-00_cv-task-F-tests-d-codex-cli_openrouter-openai-gpt-5.4_bwhhHTDHdgJjNdQfehtDKa.eval": {
+    "eval_id": "EgTKZm7Ux42KSN4RMmyXJf",
+    "run_id": "faUvwy3Q3LKYC88wwAW6Nq",
+    "task": "cv_task_F_tests_d_codex_cli",
+    "task_id": "bwhhHTDHdgJjNdQfehtDKa",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T07:01:10+00:00",
+    "completed_at": "2026-04-22T07:03:18+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-58-46-00-00_cv-task-F-tests-c-codex-cli_openrouter-openai-gpt-5.4_m4579EgdSKEEbYaedzC57b.eval": {
+    "eval_id": "SbYoXtg2BqgonrLAQQhtsu",
+    "run_id": "HQVaFjz5RCqp7sXDVVv8eU",
+    "task": "cv_task_F_tests_c_codex_cli",
+    "task_id": "m4579EgdSKEEbYaedzC57b",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:58:46+00:00",
+    "completed_at": "2026-04-22T07:01:03+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-56-20-00-00_cv-task-F-tests-b-codex-cli_openrouter-openai-gpt-5.4_jMzemBAiPA3vQ3V7mNqaud.eval": {
+    "eval_id": "DqDhGtx6ecqKdtaQTMSCAv",
+    "run_id": "GFnMtWbPto4Wqyzj7Po9YZ",
+    "task": "cv_task_F_tests_b_codex_cli",
+    "task_id": "jMzemBAiPA3vQ3V7mNqaud",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:56:21+00:00",
+    "completed_at": "2026-04-22T06:58:40+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-50-58-00-00_cv-task-F-tests-a-codex-cli_openrouter-openai-gpt-5.4_QbATpPSGxtEzpQacQ9yzP4.eval": {
+    "eval_id": "cdNfjHFw8v69tYZiDDF9TP",
+    "run_id": "dFEYxK7d6XeiHRnr773TP6",
+    "task": "cv_task_F_tests_a_codex_cli",
+    "task_id": "QbATpPSGxtEzpQacQ9yzP4",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:50:58+00:00",
+    "completed_at": "2026-04-22T06:56:14+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.4,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-46-45-00-00_cv-task-E-tests-d-codex-cli_openrouter-openai-gpt-5.4_T4QKh8fo4jkLChq9dZjmDb.eval": {
+    "eval_id": "aJm6DZ4Ju9WbTEYVyvAaS7",
+    "run_id": "evGrEzsjw8FVUevmBcawLn",
+    "task": "cv_task_E_tests_d_codex_cli",
+    "task_id": "T4QKh8fo4jkLChq9dZjmDb",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:46:45+00:00",
+    "completed_at": "2026-04-22T06:50:51+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-43-03-00-00_cv-task-E-tests-c-codex-cli_openrouter-openai-gpt-5.4_CZBU5QtUyWETqYP8FJq5hM.eval": {
+    "eval_id": "CD7sdSn2A6aiTcpWj6s7DQ",
+    "run_id": "RNX78ogodWuU6kj8d7ieuP",
+    "task": "cv_task_E_tests_c_codex_cli",
+    "task_id": "CZBU5QtUyWETqYP8FJq5hM",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:43:03+00:00",
+    "completed_at": "2026-04-22T06:46:38+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-40-21-00-00_cv-task-E-tests-b-codex-cli_openrouter-openai-gpt-5.4_UhAk5xFG8k7kRAPJnwsRBu.eval": {
+    "eval_id": "hi7HjCWNWwFY9XukMJWV5L",
+    "run_id": "UifS8HymzD3i9zxJMNXXVM",
+    "task": "cv_task_E_tests_b_codex_cli",
+    "task_id": "UhAk5xFG8k7kRAPJnwsRBu",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:40:22+00:00",
+    "completed_at": "2026-04-22T06:42:55+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-35-43-00-00_cv-task-E-tests-a-codex-cli_openrouter-openai-gpt-5.4_g9eiEe8He2yEeTixoV2vnD.eval": {
+    "eval_id": "5833UvFC2HxtXH9gqem4UA",
+    "run_id": "VfUXi25mV8s7hRt5LriQJz",
+    "task": "cv_task_E_tests_a_codex_cli",
+    "task_id": "g9eiEe8He2yEeTixoV2vnD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:35:43+00:00",
+    "completed_at": "2026-04-22T06:40:15+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-32-33-00-00_cv-task-D-d-codex-cli_openrouter-openai-gpt-5.4_an7AFTnSqcNGcBemAEt3Gc.eval": {
+    "eval_id": "mPwRQyC6jeQrutTqfkEu6Y",
+    "run_id": "go3r9VXwiL6BishzsHrqmZ",
+    "task": "cv_task_D_d_codex_cli",
+    "task_id": "an7AFTnSqcNGcBemAEt3Gc",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:32:33+00:00",
+    "completed_at": "2026-04-22T06:35:37+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-29-03-00-00_cv-task-D-c-codex-cli_openrouter-openai-gpt-5.4_dUtkiGNBWE9FnBxtdWqeu7.eval": {
+    "eval_id": "9pV8cTn3CedJyEnFFGbhhy",
+    "run_id": "Z7NWDuC6QzTaSLNcSEQ34C",
+    "task": "cv_task_D_c_codex_cli",
+    "task_id": "dUtkiGNBWE9FnBxtdWqeu7",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:29:03+00:00",
+    "completed_at": "2026-04-22T06:32:27+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-24-07-00-00_cv-task-D-b-codex-cli_openrouter-openai-gpt-5.4_WeJYmMtgjkPaBkNafa5XVb.eval": {
+    "eval_id": "ETsVAVLsG7g7sBcJe8kaeB",
+    "run_id": "GUfTVcGS9DLycqwdiVuqwz",
+    "task": "cv_task_D_b_codex_cli",
+    "task_id": "WeJYmMtgjkPaBkNafa5XVb",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:24:07+00:00",
+    "completed_at": "2026-04-22T06:28:56+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-19-39-00-00_cv-task-D-a-codex-cli_openrouter-openai-gpt-5.4_2MKqs9XaXci5ywCWnt8KxD.eval": {
+    "eval_id": "8RA2RUsJAMYb83iTDAhYmh",
+    "run_id": "BgdTbrcLBcah9nVvzGLcRM",
+    "task": "cv_task_D_a_codex_cli",
+    "task_id": "2MKqs9XaXci5ywCWnt8KxD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:19:39+00:00",
+    "completed_at": "2026-04-22T06:24:01+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.1,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-16-11-00-00_cv-task-C-d-codex-cli_openrouter-openai-gpt-5.4_BASTnEtxUEvHFtWZsprvFa.eval": {
+    "eval_id": "MSqHkurvMkfRJ2pQzXwmeS",
+    "run_id": "Cp89cTkxceBTgp49JyJQXp",
+    "task": "cv_task_C_d_codex_cli",
+    "task_id": "BASTnEtxUEvHFtWZsprvFa",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:16:12+00:00",
+    "completed_at": "2026-04-22T06:19:32+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-12-23-00-00_cv-task-C-c-codex-cli_openrouter-openai-gpt-5.4_awLaNjWXCVqMPdww7vxg5n.eval": {
+    "eval_id": "eHdQbWKiUZX3T22sT3nNhs",
+    "run_id": "fbDN9n2mNDR976JKpFrdNL",
+    "task": "cv_task_C_c_codex_cli",
+    "task_id": "awLaNjWXCVqMPdww7vxg5n",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:12:23+00:00",
+    "completed_at": "2026-04-22T06:16:05+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-07-51-00-00_cv-task-C-b-codex-cli_openrouter-openai-gpt-5.4_6FFSFNLxzW55Uwz8kMfQEY.eval": {
+    "eval_id": "fzPwKAqAyLmsEivMXEfmYr",
+    "run_id": "2umGKhnmeeCwxNbszkHJL5",
+    "task": "cv_task_C_b_codex_cli",
+    "task_id": "6FFSFNLxzW55Uwz8kMfQEY",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:07:52+00:00",
+    "completed_at": "2026-04-22T06:12:16+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T06-01-40-00-00_cv-task-C-a-codex-cli_openrouter-openai-gpt-5.4_mX6CtPGaQoBDGgDVWnS2YM.eval": {
+    "eval_id": "6rCrWNqmJ5YSVzLezSo5jj",
+    "run_id": "9Cv3xfdHdLYoBacbekKssb",
+    "task": "cv_task_C_a_codex_cli",
+    "task_id": "mX6CtPGaQoBDGgDVWnS2YM",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T06:01:41+00:00",
+    "completed_at": "2026-04-22T06:07:45+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T05-57-45-00-00_cv-task-B-tests-d-codex-cli_openrouter-openai-gpt-5.4_YKUxVtg5qXuC5kttUQ476N.eval": {
+    "eval_id": "86D47EMprFHSiEchLuAxZ6",
+    "run_id": "2UrPReB8qF6jFQFrc3wcxQ",
+    "task": "cv_task_B_tests_d_codex_cli",
+    "task_id": "YKUxVtg5qXuC5kttUQ476N",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T05:57:45+00:00",
+    "completed_at": "2026-04-22T06:01:33+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T05-53-38-00-00_cv-task-B-tests-c-codex-cli_openrouter-openai-gpt-5.4_YSRTEvZx7TPW2NJpXswBEs.eval": {
+    "eval_id": "bwZyxUjSQhwRrM34zvjuVz",
+    "run_id": "VJYQkkhvCvhwiZA9S4wNEX",
+    "task": "cv_task_B_tests_c_codex_cli",
+    "task_id": "YSRTEvZx7TPW2NJpXswBEs",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T05:53:39+00:00",
+    "completed_at": "2026-04-22T05:57:38+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T05-49-04-00-00_cv-task-B-tests-b-codex-cli_openrouter-openai-gpt-5.4_LtNPDA7eMpQRkRZ58VnRNk.eval": {
+    "eval_id": "PT4tiTUL9ZDywxfeszmKr8",
+    "run_id": "6iqsAXryRr5nCpVhyWiHeR",
+    "task": "cv_task_B_tests_b_codex_cli",
+    "task_id": "LtNPDA7eMpQRkRZ58VnRNk",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T05:49:04+00:00",
+    "completed_at": "2026-04-22T05:53:29+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.8,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T05-44-01-00-00_cv-task-B-tests-a-codex-cli_openrouter-openai-gpt-5.4_8H96V4gZyt9be4XWb2Jqkt.eval": {
+    "eval_id": "6Sc9ouwcriUfKieRWZsNvc",
+    "run_id": "4dw4BPQpTXotQMDzv3VqY4",
+    "task": "cv_task_B_tests_a_codex_cli",
+    "task_id": "8H96V4gZyt9be4XWb2Jqkt",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T05:44:01+00:00",
+    "completed_at": "2026-04-22T05:48:58+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T05-40-01-00-00_cv-task-A-tests-d-codex-cli_openrouter-openai-gpt-5.4_3G7NBXfS5mTBoy8CEH8MTm.eval": {
+    "eval_id": "amAwT5Hg4fCVCV4DM4LKnh",
+    "run_id": "d6ci72BJ4PvCEy8KBPJJDh",
+    "task": "cv_task_A_tests_d_codex_cli",
+    "task_id": "3G7NBXfS5mTBoy8CEH8MTm",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T05:40:01+00:00",
+    "completed_at": "2026-04-22T05:43:54+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T05-35-04-00-00_cv-task-A-tests-c-codex-cli_openrouter-openai-gpt-5.4_gMwcAYSVVkhF2u2pCsZWqm.eval": {
+    "eval_id": "jxxQNG3muudBXY7MctryWL",
+    "run_id": "jcJqjosQv5GVMNT5jjhBvu",
+    "task": "cv_task_A_tests_c_codex_cli",
+    "task_id": "gMwcAYSVVkhF2u2pCsZWqm",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T05:35:04+00:00",
+    "completed_at": "2026-04-22T05:39:54+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T05-29-26-00-00_cv-task-A-tests-b-codex-cli_openrouter-openai-gpt-5.4_UaWo3acPepVjP2YNhp76eP.eval": {
+    "eval_id": "BM7rAuudJ9kMMH5RkjGQUS",
+    "run_id": "CiPvP3DqoDEKqJG2za4T3T",
+    "task": "cv_task_A_tests_b_codex_cli",
+    "task_id": "UaWo3acPepVjP2YNhp76eP",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T05:29:26+00:00",
+    "completed_at": "2026-04-22T05:34:57+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/gradient/2026-04-22T05-23-04-00-00_cv-task-A-tests-a-codex-cli_openrouter-openai-gpt-5.4_mJ6HznoQh8PZmWQpRTwzTR.eval": {
+    "eval_id": "kJr9Sw7WDxVwDLqJU8DNHm",
+    "run_id": "9wh8tPvrhCQRHQjxoRFmmY",
+    "task": "cv_task_A_tests_a_codex_cli",
+    "task_id": "mJ6HznoQh8PZmWQpRTwzTR",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-22T05:23:04+00:00",
+    "completed_at": "2026-04-22T05:29:19+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.4,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-22T03-38-09-00-00_cv-task-F-tests-claude-code_openrouter-anthropic-claude-sonnet-4-6_coVhEFZLvTNzdDfNqxqkVV.eval": {
+    "eval_id": "dsgVEB4YxRk2UjqHG6bY9g",
+    "run_id": "YrsQMqK43DAPEbQF6jLprE",
+    "task": "cv_task_F_tests_claude_code",
+    "task_id": "coVhEFZLvTNzdDfNqxqkVV",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-22T03:38:09+00:00",
+    "completed_at": "2026-04-22T04:15:41+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.3,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-22T01-15-25-00-00_cv-task-E-tests-claude-code_openrouter-anthropic-claude-sonnet-4-6_RwgYrQH6FQVER4cHtTm8xj.eval": {
+    "eval_id": "m2RacTTQ7UZuAnJqUDxxzh",
+    "run_id": "iCMi7ptULrXCsHVbxefeNs",
+    "task": "cv_task_E_tests_claude_code",
+    "task_id": "RwgYrQH6FQVER4cHtTm8xj",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-22T01:15:25+00:00",
+    "completed_at": "2026-04-22T03:37:57+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.9,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-22T00-31-04-00-00_cv-task-B-tests-claude-code_openrouter-anthropic-claude-sonnet-4-6_NbboSkXSJP6gHKjZJCjtGn.eval": {
+    "eval_id": "AfMTYWCMV3URZnjHpof5xM",
+    "run_id": "2wTmu2bixJ5PbUMfVU7gdC",
+    "task": "cv_task_B_tests_claude_code",
+    "task_id": "NbboSkXSJP6gHKjZJCjtGn",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-22T00:31:04+00:00",
+    "completed_at": "2026-04-22T01:15:10+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-21T23-50-47-00-00_cv-task-A-tests-claude-code_openrouter-anthropic-claude-sonnet-4-6_aFMkFYEBYvqGPjjjQuQQP6.eval": {
+    "eval_id": "63DbHkMjMfvKFwkkAc5fvX",
+    "run_id": "UJk4foUptM75qjsw6QKcis",
+    "task": "cv_task_A_tests_claude_code",
+    "task_id": "aFMkFYEBYvqGPjjjQuQQP6",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-21T23:50:48+00:00",
+    "completed_at": "2026-04-22T00:30:55+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.7666666666666667,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-19T09-03-44-00-00_cv-task-F-tests-claude-code_openrouter-anthropic-claude-opus-4-6_hV5WsV8yFnPxHLrHff8fcw.eval": {
+    "eval_id": "CPyvZmcKUm4ztTJAPw6gNN",
+    "run_id": "JxVXKZJgZgrmp3GS4LdwKN",
+    "task": "cv_task_F_tests_claude_code",
+    "task_id": "hV5WsV8yFnPxHLrHff8fcw",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-19T09:03:44+00:00",
+    "completed_at": "2026-04-19T09:27:33+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.2,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-19T08-25-34-00-00_cv-task-E-tests-claude-code_openrouter-anthropic-claude-opus-4-6_kwXrtbj4WyEaxn9c77mfFu.eval": {
+    "eval_id": "4XTdAftAtFYZUtVoqAC8UZ",
+    "run_id": "hzekFHewrfnMYdgdakbsDo",
+    "task": "cv_task_E_tests_claude_code",
+    "task_id": "kwXrtbj4WyEaxn9c77mfFu",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-19T08:25:34+00:00",
+    "completed_at": "2026-04-19T09:03:36+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.5,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-19T08-00-25-00-00_cv-task-B-tests-claude-code_openrouter-anthropic-claude-opus-4-6_ko5dSjE89fZxcPYTrT4Nab.eval": {
+    "eval_id": "n5dEMwxthhVsg2wuWZ977o",
+    "run_id": "JBQUDCbABpdvvCNnjJFsqG",
+    "task": "cv_task_B_tests_claude_code",
+    "task_id": "ko5dSjE89fZxcPYTrT4Nab",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-19T08:00:25+00:00",
+    "completed_at": "2026-04-19T08:25:27+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-19T07-33-48-00-00_cv-task-A-tests-claude-code_openrouter-anthropic-claude-opus-4-6_SqkX9FARtc9btnLY9uY9AT.eval": {
+    "eval_id": "TimVLYarC8X2jBEqHwhZCx",
+    "run_id": "a5z5iJbWcsZUFBKcAjETfx",
+    "task": "cv_task_A_tests_claude_code",
+    "task_id": "SqkX9FARtc9btnLY9uY9AT",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-19T07:33:48+00:00",
+    "completed_at": "2026-04-19T08:00:18+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.5,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-18T13-21-18-00-00_cv-task-H-codex-cli_openrouter-openai-gpt-5.4_C9jXHbpJGPRs2tfwyEUYYf.eval": {
+    "eval_id": "PzCdixwMjeNLb7ALcZbYin",
+    "run_id": "Ty4qnxAH3DyKVmDVc7pKsZ",
+    "task": "cv_task_H_codex_cli",
+    "task_id": "C9jXHbpJGPRs2tfwyEUYYf",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-18T13:21:18+00:00",
+    "completed_at": "2026-04-18T13:38:32+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-18T13-03-06-00-00_cv-task-G-codex-cli_openrouter-openai-gpt-5.4_KGhNp997Au4UFCRYBLR3wg.eval": {
+    "eval_id": "ejy2aCm9cn9L7BSo3KYUQu",
+    "run_id": "gG2MQLYZ23JaAHdNNh2LjC",
+    "task": "cv_task_G_codex_cli",
+    "task_id": "KGhNp997Au4UFCRYBLR3wg",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-18T13:03:06+00:00",
+    "completed_at": "2026-04-18T13:21:12+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.9666666666666667,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-18T12-44-52-00-00_cv-task-F-tests-codex-cli_openrouter-openai-gpt-5.4_ayaCfVq9uCXmc3P7S2QJPg.eval": {
+    "eval_id": "RaPdSCKhbJ8NqarDMWEH9P",
+    "run_id": "2Qdj5xQrTyGsmYS78ZQabz",
+    "task": "cv_task_F_tests_codex_cli",
+    "task_id": "ayaCfVq9uCXmc3P7S2QJPg",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-18T12:44:52+00:00",
+    "completed_at": "2026-04-18T13:03:00+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.9333333333333333,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-18T12-24-29-00-00_cv-task-E-tests-codex-cli_openrouter-openai-gpt-5.4_7SF9QxuVtZHUFgou8XeCmf.eval": {
+    "eval_id": "nko7oWCSdDRdoEyyBt7jfx",
+    "run_id": "mMY3azPmgBBTNE5QCUaYHr",
+    "task": "cv_task_E_tests_codex_cli",
+    "task_id": "7SF9QxuVtZHUFgou8XeCmf",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-18T12:24:29+00:00",
+    "completed_at": "2026-04-18T12:44:45+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.9333333333333333,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-18T12-05-00-00-00_cv-task-D-codex-cli_openrouter-openai-gpt-5.4_cpiiYai5z4GLJ46FsFSf74.eval": {
+    "eval_id": "AmccT9xNUShEr2czhh5uei",
+    "run_id": "NVRNsoHwyuzQPGzhvoXnEn",
+    "task": "cv_task_D_codex_cli",
+    "task_id": "cpiiYai5z4GLJ46FsFSf74",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-18T12:05:00+00:00",
+    "completed_at": "2026-04-18T12:24:13+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-18T11-45-16-00-00_cv-task-C-codex-cli_openrouter-openai-gpt-5.4_5P9d4G2oESWAtq3eWABrzb.eval": {
+    "eval_id": "SLWpBxJty7g74geUaBHiqc",
+    "run_id": "ihkcERRgMsSx5dNnrv4Rtn",
+    "task": "cv_task_C_codex_cli",
+    "task_id": "5P9d4G2oESWAtq3eWABrzb",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-18T11:45:16+00:00",
+    "completed_at": "2026-04-18T12:04:51+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-18T11-23-45-00-00_cv-task-B-tests-codex-cli_openrouter-openai-gpt-5.4_cDH7c4ESdVeF6nWpv7jCgJ.eval": {
+    "eval_id": "Yq6p59SWjh4Nv6YzHZX2Tx",
+    "run_id": "ng5wS2XB3TqhKwQbPj67jJ",
+    "task": "cv_task_B_tests_codex_cli",
+    "task_id": "cDH7c4ESdVeF6nWpv7jCgJ",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-18T11:23:45+00:00",
+    "completed_at": "2026-04-18T11:44:54+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.9666666666666667,
+      "params": {}
+    }
+  },
+  "fastapi/gpt_5_4/baseline/2026-04-18T11-00-53-00-00_cv-task-A-tests-codex-cli_openrouter-openai-gpt-5.4_gXyatkGobBFYts2eSbNFmA.eval": {
+    "eval_id": "8jXu5ZG7pb8py9cCTmArLu",
+    "run_id": "8ovpvG3CYUaAGPzLFCkud8",
+    "task": "cv_task_A_tests_codex_cli",
+    "task_id": "gXyatkGobBFYts2eSbNFmA",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-5.4",
+    "started_at": "2026-04-18T11:00:53+00:00",
+    "completed_at": "2026-04-18T11:23:33+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.9666666666666667,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-16T02-05-47-00-00_cv-task-H-claude-code_openrouter-anthropic-claude-opus-4-6_9wh84HPYhjfUb3XFC6D7cQ.eval": {
+    "eval_id": "gCL4h3T45fM4B2ogBbFpw3",
+    "run_id": "iCpSZisB5nZdvwZYkDnMZs",
+    "task": "cv_task_H_claude_code",
+    "task_id": "9wh84HPYhjfUb3XFC6D7cQ",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-16T02:05:47+00:00",
+    "completed_at": "2026-04-16T02:25:20+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-16T01-44-15-00-00_cv-task-G-claude-code_openrouter-anthropic-claude-opus-4-6_7BGxSKu7TkQd55WtTnHRQM.eval": {
+    "eval_id": "Df9KNgRqHDRkgwuRgHDcYd",
+    "run_id": "S3YnyioF2hAEC9NH5L2rsk",
+    "task": "cv_task_G_claude_code",
+    "task_id": "7BGxSKu7TkQd55WtTnHRQM",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-16T01:44:16+00:00",
+    "completed_at": "2026-04-16T02:05:40+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-16T00-59-32-00-00_cv-task-F-claude-code_openrouter-anthropic-claude-opus-4-6_WygirQ5yjTBGCStVLkQmZi.eval": {
+    "eval_id": "h9KDo9i9kxBcW6QcJLTeZu",
+    "run_id": "dTuNXG2hFpHgbqrjcnVwTt",
+    "task": "cv_task_F_claude_code",
+    "task_id": "WygirQ5yjTBGCStVLkQmZi",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-16T00:59:32+00:00",
+    "completed_at": "2026-04-16T01:44:09+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-16T00-26-33-00-00_cv-task-E-claude-code_openrouter-anthropic-claude-opus-4-6_SMGowQawTREJHkUuTUH5Af.eval": {
+    "eval_id": "XNy3wde5NZj3BkYu5JKc7L",
+    "run_id": "jy4F5AhQNLLQSxvE85wyQh",
+    "task": "cv_task_E_claude_code",
+    "task_id": "SMGowQawTREJHkUuTUH5Af",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-16T00:26:33+00:00",
+    "completed_at": "2026-04-16T00:59:24+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.06666666666666667,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-16T00-03-15-00-00_cv-task-D-claude-code_openrouter-anthropic-claude-opus-4-6_hEizUzbTjag6wnsE3Ng39R.eval": {
+    "eval_id": "6qNdH9vewyBF77uScEkQhf",
+    "run_id": "ZLi4UcD7EFJFqwr62ie4XT",
+    "task": "cv_task_D_claude_code",
+    "task_id": "hEizUzbTjag6wnsE3Ng39R",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-16T00:03:15+00:00",
+    "completed_at": "2026-04-16T00:26:24+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-15T23-37-36-00-00_cv-task-C-claude-code_openrouter-anthropic-claude-opus-4-6_GvLcTqGwUw78xENrbgemb7.eval": {
+    "eval_id": "9KPbCgHSTeM4ziHrH77Lwo",
+    "run_id": "QGBcqsGpQnEFb4qemqAUtg",
+    "task": "cv_task_C_claude_code",
+    "task_id": "GvLcTqGwUw78xENrbgemb7",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-15T23:37:36+00:00",
+    "completed_at": "2026-04-16T00:03:08+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-15T22-44-34-00-00_cv-task-B-claude-code_openrouter-anthropic-claude-opus-4-6_RT7rb43VqdnNVEMgr9V3FP.eval": {
+    "eval_id": "7xuUViywfZsAuAN6NoiETc",
+    "run_id": "hvLw3moGxi2qrFeQkpS74T",
+    "task": "cv_task_B_claude_code",
+    "task_id": "RT7rb43VqdnNVEMgr9V3FP",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-15T22:44:34+00:00",
+    "completed_at": "2026-04-15T23:37:29+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.8666666666666667,
+      "params": {}
+    }
+  },
+  "fastapi/opus_4_6/baseline/2026-04-15T22-23-15-00-00_cv-task-A-claude-code_openrouter-anthropic-claude-opus-4-6_8TDzKyMrre7GrQmguAdEKY.eval": {
+    "eval_id": "6AXAfQd2pcUHRUq9CJMDK7",
+    "run_id": "oWFvHwguUHQSAgmpHYmVZj",
+    "task": "cv_task_A_claude_code",
+    "task_id": "8TDzKyMrre7GrQmguAdEKY",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-opus-4-6",
+    "started_at": "2026-04-15T22:23:15+00:00",
+    "completed_at": "2026-04-15T22:44:26+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-15T03-34-12-00-00_cv-task-H-claude-code_openrouter-anthropic-claude-sonnet-4-6_fEut6ygPwn6kg2jcifuLk3.eval": {
+    "eval_id": "XK2hNCojaHr99wPtzGLAmz",
+    "run_id": "2c7Vt8VGTfXK39n3jroBWV",
+    "task": "cv_task_H_claude_code",
+    "task_id": "fEut6ygPwn6kg2jcifuLk3",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-15T03:34:13+00:00",
+    "completed_at": "2026-04-15T03:55:54+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-15T03-09-54-00-00_cv-task-G-claude-code_openrouter-anthropic-claude-sonnet-4-6_2sQKF98apGj7ERB9tgpkVc.eval": {
+    "eval_id": "4KGKUu8xCvkyAHCHT58L4z",
+    "run_id": "YPGhRc9JYB9cdvHmgbPYEu",
+    "task": "cv_task_G_claude_code",
+    "task_id": "2sQKF98apGj7ERB9tgpkVc",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-15T03:09:54+00:00",
+    "completed_at": "2026-04-15T03:34:07+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-15T02-40-04-00-00_cv-task-F-claude-code_openrouter-anthropic-claude-sonnet-4-6_7tMXLFutKBE5CsCmFZBdTz.eval": {
+    "eval_id": "iV3WUqfAequXW8Q556ddzH",
+    "run_id": "4Fb4Rb5Q2bsAVfmQSDySLe",
+    "task": "cv_task_F_claude_code",
+    "task_id": "7tMXLFutKBE5CsCmFZBdTz",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-15T02:40:04+00:00",
+    "completed_at": "2026-04-15T03:09:45+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.06666666666666667,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-15T02-21-12-00-00_cv-task-E-claude-code_openrouter-anthropic-claude-sonnet-4-6_eXLVwHKizSbQPdcchKdSSM.eval": {
+    "eval_id": "cfhuJ3xr8bghUyBvr5cGME",
+    "run_id": "HfYCuGFMDarkgtUr6EH23V",
+    "task": "cv_task_E_claude_code",
+    "task_id": "eXLVwHKizSbQPdcchKdSSM",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-15T02:21:12+00:00",
+    "completed_at": "2026-04-15T02:39:58+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.16666666666666666,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-15T01-56-21-00-00_cv-task-D-claude-code_openrouter-anthropic-claude-sonnet-4-6_H27BkpVfojTg86R9H5R2xL.eval": {
+    "eval_id": "khsEUNMHtisYRTkAQ5sTUv",
+    "run_id": "9tLLNMEibK6aakt7WsdwbR",
+    "task": "cv_task_D_claude_code",
+    "task_id": "H27BkpVfojTg86R9H5R2xL",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-15T01:56:21+00:00",
+    "completed_at": "2026-04-15T02:21:05+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.6333333333333333,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-15T01-32-35-00-00_cv-task-C-claude-code_openrouter-anthropic-claude-sonnet-4-6_V46it8KkoNiXePYnXRRqvi.eval": {
+    "eval_id": "7AFF5xoZ7NTs39562byxCQ",
+    "run_id": "CCZgrsEF7WGDYVENCjhNdy",
+    "task": "cv_task_C_claude_code",
+    "task_id": "V46it8KkoNiXePYnXRRqvi",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-15T01:32:35+00:00",
+    "completed_at": "2026-04-15T01:56:13+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.8333333333333334,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-15T00-29-55-00-00_cv-task-B-claude-code_openrouter-anthropic-claude-sonnet-4-6_BNnQBQukdfBQCBvLQou4Dm.eval": {
+    "eval_id": "RCSvFKnzWB9heiPSdvXqny",
+    "run_id": "VvzdzCZFR9qNUzXKr5YuiW",
+    "task": "cv_task_B_claude_code",
+    "task_id": "BNnQBQukdfBQCBvLQou4Dm",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-15T00:29:56+00:00",
+    "completed_at": "2026-04-15T01:32:28+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.5333333333333333,
+      "params": {}
+    }
+  },
+  "fastapi/sonnet_4_6/baseline/2026-04-15T00-10-29-00-00_cv-task-A-claude-code_openrouter-anthropic-claude-sonnet-4-6_45pMdnqYdCPjTnHShEjKZQ.eval": {
+    "eval_id": "jMWiWNdtE8xjjqGk7sfHZL",
+    "run_id": "CEBkhWQ4kH5GmCeg24P7cS",
+    "task": "cv_task_A_claude_code",
+    "task_id": "45pMdnqYdCPjTnHShEjKZQ",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/anthropic/claude-sonnet-4-6",
+    "started_at": "2026-04-15T00:10:29+00:00",
+    "completed_at": "2026-04-15T00:29:38+00:00",
+    "primary_metric": {
+      "name": "accuracy",
+      "value": 0.03333333333333333,
+      "params": {}
+    }
+  }
+}
