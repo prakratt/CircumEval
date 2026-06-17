@@ -91,11 +91,13 @@
       align-items: start;
     }
     @media (max-width: 1180px) {
-      .page { grid-template-columns: 200px 1fr; gap: 36px; }
+      .page { grid-template-columns: 200px minmax(0, 1fr); gap: 36px; }
       .callout-rail { display: none; }
     }
     @media (max-width: 900px) {
-      .page { grid-template-columns: 1fr; gap: 28px; padding: 28px 18px 16px; }
+      .page { grid-template-columns: minmax(0, 1fr); gap: 28px; padding: 28px 18px 16px; }
+      .page > * { min-width: 0; }
+      .article { max-width: 100%; }
     }
 
     /* ─── TOC sidebar ─────────────────────────────────── */
@@ -179,6 +181,10 @@
 
     /* ─── Article body ────────────────────────────────── */
     .article { max-width: 740px; }
+    .article { overflow-wrap: break-word; word-wrap: break-word; min-width: 0; }
+    .article a { word-break: break-word; }
+    .article code { white-space: normal; word-break: break-word; }
+    .article pre { max-width: 100%; }
 
     .article-header h1 {
       font-size: 38px;
