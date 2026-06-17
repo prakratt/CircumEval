@@ -118,6 +118,13 @@
         background: var(--card);
       }
     }
+
+    /* Active TOC item — highlights the section currently in view */
+    .toc li { transition: border-left-color 0.2s ease; }
+    .toc a { transition: color 0.2s ease; }
+    .toc li.active { border-left-color: var(--accent); }
+    .toc li.active > a { color: var(--ink); font-weight: 600; }
+    .toc li.active.subitem > a { color: var(--ink); }
     .toc-label {
       font-family: ui-monospace, "JetBrains Mono", Menlo, monospace;
       font-size: 11px;
@@ -2747,5 +2754,35 @@ datasette/
   });
 })();
 </script>
-</body>
+<script>
+(function() {
+  const tocItems = new Map();           // section-id → <li>
+  document.querySelectorAll('.toc a[href^="#"]').forEach(a => {
+    const id = a.getAttribute('href').slice(1);
+    if (id) tocItems.set(id, a.parentElement);
+  });
+  // ordered list of section targets in document order
+  const targets = [];
+  tocItems.forEach((li, id) => {
+    const el = document.getElementById(id);
+    if (el) targets.push(el);
+  });
+  if (!targets.length) return;
+  targets.sort((a, b) => a.compareDocumentPosition(b) & Node.DOCUMENT_POSITION_FOLLOWING ? -1 : 1);
+
+  function update() {
+    // pick the last target whose top is above a band ~120px below the viewport top
+    const trigger = window.scrollY + 120;
+    let activeId = targets[0].id;
+    for (const t of targets) {
+      if (t.offsetTop <= trigger) activeId = t.id;
+      else break;
+    }
+    tocItems.forEach((li, id) => li.classList.toggle('active', id === activeId));
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  update();
+})();
+</script></body>
 </html>
