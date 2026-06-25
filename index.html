@@ -212,8 +212,12 @@
       font-size: 14px;
       color: var(--ink-mute);
       display: flex;
-      gap: 10px;
+      flex-wrap: wrap;
+      gap: 6px 10px;
       align-items: center;
+    }
+    .article-header .meta + .meta { margin-top: 4px; }
+    .article-header .meta:last-child {
       margin-bottom: 36px;
       padding-bottom: 24px;
       border-bottom: 1px solid var(--rule);
@@ -1002,6 +1006,11 @@
         <span class="authors">Prakrat Agrawal, Ariel Gil, and Jérémy Scheurer</span>
         <span class="sep">·</span>
         <span>June 2026</span>
+      </div>
+      <div class="meta">
+        <a href="https://www.lesswrong.com/posts/GHrqBKr8GLpbce6mN/door-s-locked-try-the-window" target="_blank" rel="noopener noreferrer">LessWrong post</a>
+        <span class="sep">·</span>
+        <a href="https://x.com/prakrattt/status/2069805025858334981" target="_blank" rel="noopener noreferrer">Twitter thread</a>
       </div>
 
     </header>
